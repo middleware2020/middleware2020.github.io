@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2019-12-09T22:56:27+01:00</updated>
+    <updated>2019-12-09T23:00:47+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -78,7 +78,7 @@
         <link href="https://middleware2020.github.io/accommodation.html"/>
         <id>https://middleware2020.github.io/accommodation.html</id>
 
-        <updated>2019-12-09T22:56:20+01:00</updated>
+        <updated>2019-12-09T23:00:23+01:00</updated>
             <summary>
                 <![CDATA[
                     All hotel bookings must be arranged directly with the hotels. We are&hellip;
@@ -89,8 +89,8 @@
                 <p>All hotel bookings must be arranged directly with the hotels. We are in the process of negotiating discounts under the special booking code Middleware2020. Once the discounted room rates are known, they will be posted on this page. </p>
 <p>We recommend making the reservations well in advance due to the limited number of discounted rooms. </p>
 <p>TU Delft has special price arrangements with the following hotels in Delft:</p>
-<table class="center" style="width: 100%;">
-<tbody>
+<table style="width: 100%;">
+<tbody class="center">
 <tr>
 <td class="align-left"><strong>Hotel</strong></td>
 <td> </td>
