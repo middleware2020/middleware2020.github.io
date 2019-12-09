@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2019-12-09T22:44:32+01:00</updated>
+    <updated>2019-12-09T22:56:27+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -78,7 +78,7 @@
         <link href="https://middleware2020.github.io/accommodation.html"/>
         <id>https://middleware2020.github.io/accommodation.html</id>
 
-        <updated>2019-12-09T22:44:27+01:00</updated>
+        <updated>2019-12-09T22:56:20+01:00</updated>
             <summary>
                 <![CDATA[
                     All hotel bookings must be arranged directly with the hotels. We are&hellip;
@@ -89,7 +89,7 @@
                 <p>All hotel bookings must be arranged directly with the hotels. We are in the process of negotiating discounts under the special booking code Middleware2020. Once the discounted room rates are known, they will be posted on this page. </p>
 <p>We recommend making the reservations well in advance due to the limited number of discounted rooms. </p>
 <p>TU Delft has special price arrangements with the following hotels in Delft:</p>
-<table class="align-center" style="width: 100%;">
+<table class="center" style="width: 100%;">
 <tbody>
 <tr>
 <td class="align-left"><strong>Hotel</strong></td>
@@ -108,7 +108,7 @@
 <td class="align-left"><strong>Hampshire</strong><br>Koepoortplaats 3<br>2612 RR Delft<br>+31(0)152122125<br><a href="mailto:info@hoteldelftcentre.nl">info@hoteldelftcentre.nl</a><br><a href="http://www.hoteldelftcentre.nl/">www.hoteldelftcentre.nl</a></td>
 <td><strong>****</strong></td>
 <td class="align-left">
-<p>Comfort € 110.50</p>
+<p>Comfort 110,50 €</p>
 <p>Reservation:<br><a href="mailto:reserveringen@hoteldelftcentre.nl">reserveringen@hoteldelftcentre.nl</a><br>+31(0)152122125</p>
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td class="align-left"><strong>Hotel Johannes Vermeer</strong><br>Molslaan 18<br>2611 RM Delft<br>+31(0)152126466<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a><br><a href="http://www.hotelvermeer.nl/">www.hotelvermeer.nl</a></td>
 <td><strong>***</strong></td>
-<td class="align-left">Standard € 109<br> <br>Reservation:<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a></td>
+<td class="align-left">Standard 109 €<br> <br>Reservation:<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a></td>
 </tr>
 <tr>
 <td class="align-left"><strong>Hotel Casa Juliana</strong><br>Maerten Trompstraat 33<br>2628 RC Delft<br>+31(0)152567612<br><a href="mailto:reservations@casajulia.nl">reservations@casajulia.nl</a><br><a href="http://www.casajulia.nl">www.casajulia.nl</a></td>
