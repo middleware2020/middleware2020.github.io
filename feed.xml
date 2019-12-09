@@ -3,36 +3,12 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2019-12-09T08:32:15+01:00</updated>
+    <updated>2019-12-09T08:41:42+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
-    <entry>
-        <title>Image Holder</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/image-holder.html"/>
-        <id>https://middleware2020.github.io/image-holder.html</id>
-
-        <updated>2019-12-09T07:00:17+01:00</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/oostport-winter.jpg" alt="" width="3008" height="2000"></p>
-<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/netherlands-1945177.jpg" alt="" width="2045" height="1150"></p>
-<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/delft-2156645.jpg" alt="" width="4000" height="2248"></p>
-<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/street-2643477.jpg" alt="" width="4000" height="2664"></p>
-<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/campus.jpg" alt="" width="3619" height="1470"><img class="post__image" src="https://middleware2020.github.io/media/posts/14/verwersdijk.jpg" alt="" width="4288" height="2848"></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>OV Chipkaart</title>
         <author>
@@ -41,7 +17,7 @@
         <link href="https://middleware2020.github.io/ov-chipkaart.html"/>
         <id>https://middleware2020.github.io/ov-chipkaart.html</id>
 
-        <updated>2019-12-09T05:08:38+01:00</updated>
+        <updated>2019-12-09T08:39:29+01:00</updated>
             <summary>
                 <![CDATA[
                     All trains and most local public transport in the Netherlands have a&hellip;
@@ -392,6 +368,95 @@
         <content type="html">
             <![CDATA[
                 TBD
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Call for Industry Papers</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/call-for-industry-papers.html"/>
+        <id>https://middleware2020.github.io/call-for-industry-papers.html</id>
+
+        <updated>2019-12-09T01:47:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The annual ACM/IFIP Middleware conference is a major forum for the discussion&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="section-title-wrap mr-btm-72 text-center">
+<p align="left">The annual ACM/IFIP Middleware conference is a major forum for the discussion of innovations and recent advances in the design, construction and use of middleware systems. The Industrial Track of the Middleware 2020 Conference solicits 6-page papers for presentation during the main conference (single track) and inclusion in the ACM Digital Library. The topics of interest are similar to those in the general conference call for papers. However, the purpose of the Industrial Track is to emphasize the practical issues, observations, and measurements of “real-world” systems and applications and to disseminate information of particular interest to middleware researchers, architects, developers and administrators.</p>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dq414lmf0" class="section-title mr-btm-10"> </h2>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dp173ivl0" class="section-title mr-btm-10">Important Dates</h2>
+<div class="entry-content single-entry-post">
+<table align="center">
+<tbody>
+<tr>
+<td><strong>Paper Submission</strong></td>
+<td><strong>TBD</strong></td>
+</tr>
+<tr>
+<td><strong>Notification</strong></td>
+<td><strong>TBD</strong></td>
+</tr>
+<tr>
+<td><strong>Camera Ready Deadline</strong></td>
+<td><strong>TBD</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dq414lmf1" class="section-title mr-btm-10">Topics</h2>
+<div class="entry-content single-entry-post">
+<p align="left">The topics of the industry track include, but are not limited to:</p>
+<ul>
+<li>Experience reports and measurements relating to
+<ul>
+<li>Deployments of Internet-scale environments, including grids, datacenters, and other large-scale systems</li>
+<li>Cloud computing middleware, for Infrastructure/Platform/Application as a Service Quality of service, quality of user experience</li>
+<li>Scalability issues (e.g., observed real-life workloads and applications)</li>
+<li>Reliability and availability issues (observed real-life faults, fault models, and recovery mechanisms)</li>
+<li>Security issues (e.g., real attacks on deployed platforms and their impacts)</li>
+<li>Middleware in big data and machine learning systems and applications</li>
+<li>Deployments of embedded systems, sensor networks and Internet of Things</li>
+<li>Deployments of blockchain-based middleware and applications</li>
+<li>AI, accelerators for deep learning, and use cases leveraging it, such as self-driving cars and others</li>
+</ul>
+</li>
+<li>Approaches, mechanisms and tools for
+<ul>
+<li>Real-life deployment, e.g., hardware equipment management (installation, updates, replacement), management of data center buildings, network points of presence, “data center in-a- box”</li>
+<li>DevOps, continuous software development, integration, and delivery</li>
+<li>Operation and maintenance, e.g., install and upgrade, bug fixes, and backup</li>
+<li>Runtime management, e.g., monitoring, alerting, troubleshooting, and remediation</li>
+<li>Economic, energy-aware, and environmental analyses (e.g. cost and/or energy impacts of various data center deployment models)</li>
+<li>Security management, e.g., intrusion detection, and key management</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dq414lmf2" class="section-title mr-btm-10">Submission Guidelines</h2>
+<p align="left">A submission must be a single PDF file conforming to the ACM SIGPLAN Conference Format and must not exceed <strong>6 pages</strong> (including abstract, figures, tables, and appendices, but excluding references). Submissions that do not adhere to these guidelines or that violate formatting will be declined without review. Reviewing is <strong>single-blind</strong>; papers must include author names and affiliations. A sample Latex template using the correct ACM SIGPLAN style can be found <a href="http://2019.middleware-conference.org/middleware18-sample_latex.zip">here</a>. Authors are required to add “(industry track)” at the end of their paper title.</p>
+<br>
+<p align="left">Each submission will be reviewed by at least three members of the Industrial Track Program Committee. Submissions will be evaluated on the basis of originality, importance of contribution, technical soundness, evaluation, quality of presentation and appropriate comparison to related work. The committee as a whole will make final decisions about which submissions to accept for presentation at the conference.</p>
+<br>
+<p align="left">Simultaneous submission of the same work to multiple venues, submission of previously published work, or plagiarism constitutes dishonesty or fraud. The conference organizers, like those of other scientific conferences and journals, prohibit these practices and may take actions against authors who have committed them. Papers accompanied by nondisclosure agreement forms will not be considered. If you are uncertain whether your submission meets the guidelines, please contact the program co-chairs.</p>
+<br>
+<p align="left">By submitting a paper, you agree that at least one of the authors will attend the conference and present the paper in person.</p>
+<br>
+<p align="left">Submissions will be handled through HotCRP. Please submit papers to HotCRP. </p>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
