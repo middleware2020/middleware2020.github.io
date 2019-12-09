@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Middleware 2020</title>
+    <link href="https://middleware2020.github.io/feed.xml" rel="self" />
+    <link href="https://middleware2020.github.io" />
+    <updated>2019-12-09T08:32:15+01:00</updated>
+    <author>
+        <name>rjan</name>
+    </author>
+    <id>https://middleware2020.github.io</id>
+
+    <entry>
+        <title>Image Holder</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/image-holder.html"/>
+        <id>https://middleware2020.github.io/image-holder.html</id>
+
+        <updated>2019-12-09T07:00:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/oostport-winter.jpg" alt="" width="3008" height="2000"></p>
+<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/netherlands-1945177.jpg" alt="" width="2045" height="1150"></p>
+<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/delft-2156645.jpg" alt="" width="4000" height="2248"></p>
+<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/street-2643477.jpg" alt="" width="4000" height="2664"></p>
+<p><img class="post__image" src="https://middleware2020.github.io/media/posts/14/campus.jpg" alt="" width="3619" height="1470"><img class="post__image" src="https://middleware2020.github.io/media/posts/14/verwersdijk.jpg" alt="" width="4288" height="2848"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>OV Chipkaart</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/ov-chipkaart.html"/>
+        <id>https://middleware2020.github.io/ov-chipkaart.html</id>
+
+        <updated>2019-12-09T05:08:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    All trains and most local public transport in the Netherlands have a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>All trains and most local public transport in the Netherlands have a unified fare and payment system that uses a contactless prepaid card called <em>OV Chipkaart</em>.  While it is possible to purchase one-way disposable tickets at vending stations and, in some forms of transportation, from the driver, you will be charged a surcharge of 1 € per ticket.</p>
+<p>If you plan to make multiple rides, it might be advisable to purchase an (anonymous) OV Chipkaart from one of the vending points (ticket machines in every rail station, ticket offices in some larger stations, customer service points in some shops) for 7.50€. This card can be charged with funds and used with the contactless readers in any railway station, in buses, trains, trams, and even some ferries. </p>
+<p>When checking in, a lump sum is charged to your card depending on the mode of transportation. At the end of your journey, you need to check out again and then the difference between the lump sum and the effective fare is changed back to your card. For trains, you need a minimum balance of 20€ on your card to check in. For most local public transport around Delft, the lump sum is 4€. There is a <a href="https://www.ov-chipkaart.nl/ov-chip-and-use/use/ov-chipkaart-app.htm" target="_blank" rel="noopener noreferrer">mobile app</a> through which you can monitor your balance, access your travel history, and apply for a refund in case you forgot to check out at the end of your trip.  </p>
+<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/13/OV-chipkaart.jpg" alt="" width="327" height="212"></p>
+<p>More information about the OV Chipkaart can be found on <a href="https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/anonymous-ov-chipkaart.htm" target="_blank" rel="nofollow noopener noreferrer">https://www.ov-chipkaart.nl</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Visa Information</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/visa-information.html"/>
+        <id>https://middleware2020.github.io/visa-information.html</id>
+
+        <updated>2019-12-09T02:12:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The Netherlands are part of the Schengen Area. As a result, EU&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Netherlands are part of the Schengen Area. As a result, EU citizens and citizens of other Schengen countries can enter the Netherlands without restrictions. Furthermore, the citizens of 62 countries are allowed to enter the Netherlands for short stays (up to 90 days) under a visa-waiver program. In order to check your eligibility, you can use the adviser of the Ministry of Foreign Affairs: </p>
+<p><a href="https://consular.mfaservices.nl/schengen-visa/schengen-advisor">https://consular.mfaservices.nl/schengen-visa/schengen-advisor</a></p>
+<p> </p>
+<h2 id="mcetoc_1drk2h2mf0">Visa Support Letters</h2>
+<div class="entry-content single-entry-post">
+<p align="left">ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. You have to register for the conference and your payment needs to be fully processed before you can apply for a support letter. </p>
+<p align="left">For visa support letters, refer all requests to <a href="mailto: supportletters@acm.org">supportletters@acm.org</a>. Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request:</p>
+<ul>
+<li>Your name as it appears on your passport</li>
+<li>Your current postal mailing address</li>
+<li>The name of the conference you are registering for</li>
+<li>Your registration confirmation number</li>
+<li>If you have any papers accepted for the conference, please provide the title and indicate whether you are the “sole author” or a “co-author”</li>
+<li>Authors may indicate their paper title. If no paper, speakers can provide the title of their presentation</li>
+</ul>
+<p>ACM does not provide letters for transport of vendor or presenter equipment. ACM suggests shipping the materials insured to the conference facility.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accommodation</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/accommodation.html"/>
+        <id>https://middleware2020.github.io/accommodation.html</id>
+
+        <updated>2019-12-09T06:17:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    All hotel bookings must be arranged directly with the hotels. We are&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>All hotel bookings must be arranged directly with the hotels. We are in the process of negotiating discounts under the special booking code Middleware2020. Once the discounted room rates are known, they will be posted on this page. </p>
+<p>We recommend making the reservations well in advance due to the limited number of discounted rooms. </p>
+<p>TU Delft has special price arrangements with the following hotels in Delft:</p>
+<table class=" align-center" style="width: 50rem;">
+<tbody>
+<tr>
+<td><strong>Hotel</strong></td>
+<td><strong>Category</strong></td>
+<td><strong>Negotiated Rates</strong></td>
+</tr>
+<tr>
+<td class="align-left"><strong>Hotel Westcord</strong><br>Olof Palmestraat 2<br>2616 LM Delft<br>+31(0)158889010<br><a href="mailto:delft@westcordhotels.nl">delft@westcordhotels.nl</a><br><a href="http://www.westcordhotels.com/">www.westcordhotels.com</a> </td>
+<td><strong>****</strong></td>
+<td class="align-left">
+<p>Comfort € <em>(rate pending)</em><br>Comfort Deluxe € <em>(rate pending)</em><br>Studio € X <em>(rate pending)</em></p>
+<p>Reservation (no code required):<br><a href="https://westcordhotels.com/tudelft/">https://westcordhotels.com/tudelft/</a></p>
+</td>
+</tr>
+<tr>
+<td class="align-left"><strong>Hampshire</strong><br>Koepoortplaats 3<br>2612 RR Delft<br>+31(0)152122125<br><a href="mailto:info@hoteldelftcentre.nl">info@hoteldelftcentre.nl</a><br><a href="http://www.hoteldelftcentre.nl/">www.hoteldelftcentre.nl</a></td>
+<td><strong>****</strong></td>
+<td class="align-left">
+<p>Comfort € 110.50</p>
+<p>Reservation:<br><a href="mailto:reserveringen@hoteldelftcentre.nl">reserveringen@hoteldelftcentre.nl</a><br>+31(0)152122125</p>
+</td>
+</tr>
+<tr>
+<td class="align-left"><strong>Hotel De Plataan</strong><br>Doelenplein 10<br>2611 BP Delft<br>+31(0)152126046<br><a href="mailto:info@hoteldeplataan.nl">info@hoteldeplataan.nl</a><br><a href="http://www.hoteldeplataan.nl/">www.hoteldeplataan.nl</a></td>
+<td><strong>***</strong></td>
+<td class="align-left">Standard € <em>(rate pending)</em><br>Exclusive € <em>(rate pending)</em><br> <br>Reservation (activate discount code top right):<br><a href="https://booking.roomraccoon.com/hotel-de-plataan-delft-centrum/en/">https://booking.roomraccoon.com/hotel-de-plataan-delft-centrum/en/</a></td>
+</tr>
+<tr>
+<td class="align-left"><strong>Hotel Johannes Vermeer</strong><br>Molslaan 18<br>2611 RM Delft<br>+31(0)152126466<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a><br><a href="http://www.hotelvermeer.nl/">www.hotelvermeer.nl</a></td>
+<td><strong>***</strong></td>
+<td class="align-left">Standard € 109<br> <br>Reservation:<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a></td>
+</tr>
+<tr>
+<td class="align-left"><strong>Hotel Casa Juliana</strong><br>Maerten Trompstraat 33 2628 RC Delft<br>+31(0)152567612<br><a href="mailto:reservations@casajulia.nl">reservations@casajulia.nl</a><br><a href="http://www.casajulia.nl/">www.casajulia.nl</a></td>
+<td><strong>***</strong></td>
+<td class="align-left">Single € <em>(rate pending)</em><br>Basic double € <em>(rate pending)</em><br>Small double €<em> (rate pending)</em><br>Comfort double € <em>(rate pending)</em><br>Junior suite € <em>(rate pending)</em><br> <br>Reservation: <a href="https://www.mews.li/distributor/592bf660-2d52-4bbc-9155-4426e63e91be?mewsVoucherCode=wifs2019">website</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Most hotels are in walking distance (&lt; 20 minutes walk) and/or reachable by <a href="https://middleware2020.github.io/venue-information.html">public transport</a>. </p>
+<p>  <img class="post__image--center" src="https://middleware2020.github.io/media/posts/11/hotel_map.jpg" alt="" width="597" height="493"></p>
+<p> </p>
+<p>More about these hotels and other hotels in Delft can be found on the website <a href="https://www.delft.com/planning-your-trip/stay">https://www.delft.com/planning-your-trip/stay</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Travel Information</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/travel-information.html"/>
+        <id>https://middleware2020.github.io/travel-information.html</id>
+
+        <updated>2019-12-09T04:58:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Delft is located in the province of South Holland, between the cities&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1drk885rb0">Delft is located in the province of South Holland, between the cities of The Hague and Rotterdam, and can be easily reached through different modes of transportation. </p>
+<h2 id="mcetoc_1drk8h5751">By Airplane</h2>
+<h6 id="mcetoc_1drk9ici40">AMS</h6>
+<p><a href="https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol" target="_blank" rel="noopener noreferrer">Amsterdam Schiphol</a> is one of the largest airports in the world by passenger volume and just ~40 min away from Delft. It is the homebase of KLM (direct connections from 50+ locations in Europe and 50+ in the rest of the world), the European hub for Delta Airlines (direct flights from 10 airports in the USA), hub for the budget airline EasyJet (direct flights from 30+ destinations in Europe), and for low-cost carrier Transavia (direct flights from 20+ destinations). </p>
+<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/airport-2322977.jpg" width="500" height="375"></p>
+<p>There is a train station in the central terminal building with direct train connections to Delft running every 30 minutes, currently departing at :13 and :43 from platform 5 or 6. The current travel time to Delft is 38 minutes and the fare is 10.50€ with <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a> and 11.50€ for a disposable ticket. There is an additional connection with a transfer in Leiden on the same platform that also operates twice per hour at :27 and :57.  The service pattern can differ in case of maintenance work or other disruptions, especially on Sundays. In order to plan your trip and get realtime updates, you can use the travel planner <a href="https://9292.nl" target="_blank" rel="nofollow noopener noreferrer">9292.nl</a> or the app of the national railway company NS <a href="https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html" target="_blank" rel="nofollow noopener noreferrer">www.ns.nl</a>.</p>
+<h6 id="mcetoc_1drk9io871">RTM</h6>
+<p><a href="https://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport" target="_blank" rel="noopener noreferrer">Rotterdam The Hague Airport</a> is a local airport in the municipality of Rotterdam with a limited number direct international connections including London City, Vienna, Lisbon, and Barcelona. </p>
+<p>The airport is served by the bus line 37 that operates on an irregular service pattern centered around the main plane arrival times and reaches Delft central station in 20 minutes. The bus line 33 connects to Rotterdam central station and the Metro Line E. </p>
+<p> </p>
+<h2 id="mcetoc_1drka27rr2">By Train</h2>
+<p>The new underground <em>Delft Station</em> is the central train station in Delft and located in close proximity to the historic old town and the TU Campus. Both inter-regional trains (Inter City) and local trains (Sprinter) connect Delft with the main traffic hubs:</p>
+<ul>
+<li>Rotterdam: 10 minutes travel time, up to 10 trains per hour, connections from/to <a href="https://www.nsinternational.nl/en/trains/thalys" target="_blank" rel="noopener noreferrer">Thalys</a> (France and Belgium), <a href="https://www.nsinternational.nl/en/trains/eurostar">Eurostar </a>(England and Belgium), and <a href="https://www.nsinternational.nl/en/trains/intercity-brussels" target="_blank" rel="noopener noreferrer">Intercity Brussels </a>(Belgium)</li>
+<li>Amsterdam Central Station: 45 minutes travel time, direct trains every 30 minutes,  connections from/to <a href="https://www.nsinternational.nl/en/trains/ice-international" target="_blank" rel="noopener noreferrer">ICE International</a> (Germany, Switzerland), <a href="https://www.nsinternational.nl/en/trains/intercity-berlin" target="_blank" rel="noopener noreferrer">Intercity Berlin</a> (Germany), and <a href="https://www.nsinternational.nl/en/trains/nighttrain" target="_blank" rel="noopener noreferrer">ÖBB Nightjet</a> (Germany, Austria)</li>
+</ul>
+<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/train-2954371_1920.jpg" width="500" height="333"></p>
+<p>In addition, there are direct connections to national traffic hubs:</p>
+<ul>
+<li>The Hague Central Station, 10 minutes travel time, direct trains every 20 minutes. </li>
+<li>Breda, 36 minutes travel time, direct trains every 30 minutes</li>
+<li>Eindhoven, 1:15h travel time, direct trains every 30 minutes </li>
+</ul>
+<p>Most major railway stations in the Netherlands, including Delft, are equipped with fare gates. If you travel with an international ticket, you have a QR code printed on it which needs to be used to exit the station. Note that most gates are only for the contactless <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a> so you need to locate one of the gates which has a barcode scanner, such as the wide gates for people traveling with luggage. </p>
+<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/fare_gate.jpg" width="400" height="243"></p>
+<p> </p>
+<h2 id="mcetoc_1drkbb0o73">By Car</h2>
+<p>Delft is connected to the highways A13 and A4. Parking on the campus is free (as of now). Street parking in the city center is very limited and daily rates start at 12€. Parking garages charge at least 3€ per hour.  </p>
+<p>When driving in the city, be mindful of bicycles which often have the right of way at intersections. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stay Tuned</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/stay-tuned.html"/>
+        <id>https://middleware2020.github.io/stay-tuned.html</id>
+
+        <updated>2019-12-09T07:24:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                     This information is not available at this point. Stay tuned for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><img class="post__image--center" src="https://middleware2020.github.io/media/posts/9/autoradio-4672254_1920.jpg" alt="stay tuned" width="406" height="276"></p>
+<p class="align-center msg msg--info"><strong><em>This information is not available at this point. Stay tuned for updates!</em></strong></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venue Information</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/venue-information.html"/>
+        <id>https://middleware2020.github.io/venue-information.html</id>
+
+        <updated>2019-12-09T08:14:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Aula Conference Center, TU Delft Middleware 2020 will be held in the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1drko5d6t0"> </h2>
+<h2 id="mcetoc_1drk7rgkb0">Aula Conference Center, TU Delft </h2>
+<p><img class="post__image" src="https://middleware2020.github.io/media/posts/8/AulaNew.jpg" alt="TU Delft Aula" width="2000" height="830"> </p>
+<p>Middleware 2020 will be held in the <a href="https://iamap.tudelft.nl/en/poi/aula-conference-center" target="_blank" rel="noopener noreferrer">Aula Conference Center</a>, located in the heart of the <a href="http://www.tudelft.nl" target="_blank" rel="noopener noreferrer">TU Delft</a> campus. It offers a variety of different meeting rooms, an auditorium, various facilities, and large exhibition areas. A bar and a buffet restaurant are located on the ground floor. All rooms of the TU Delft Conference Centre are equipped with necessary technology (screen, computer, connectors). Eduroam and conference wifi is available. The building is fully accessible.</p>
+<h2 id="mcetoc_1dq48u2ef0">Visitor Address</h2>
+<p id="mcetoc_1dq48vc9i1">TU Delft Aula Conference Centre (Building 20)<br>Mekelweg 5<br>2628 CC Delft<br>The Netherlands</p>
+<h2 id="mcetoc_1dq4am6sp1">Bicyling</h2>
+<p>The bicycle is the traditional mode of transportation in the Netherlands. Delft has an extensive network of bike lanes, including some dedicated roads for bicycles. Most public places have a large number of bike racks for parking. Be mindful that bike lanes and cycle paths can be very busy during the peak hours and you should be reasonably experienced when cycling in dense traffic. Information about the most important traffic rules for bicycles can be found on <a href="https://www.holland.com/global/tourism/information/general/cycling-rules-in-holland.htm" target="_blank" rel="nofollow noopener noreferrer">www.holland.com</a>.</p>
+<p>Bikes can be rented from various places in the city. The orange bikes from Mobike can be unlocked and used through their <a href="https://mobike.com" target="_blank" rel="nofollow noopener noreferrer">mobile app</a></p>
+<h2 id="mcetoc_1dq4aloo00">Public Transport</h2>
+<p>The Aula Conference Center can easily be reached with public transport. The bus stop <em>TU Aula</em> is in close proximity to the building. At this moment, it is served by the bus lines 40 and 69 which both depart from the central station. Due to construction work on a new bridge, the buses currently take a detour and take about 20 minutes to reach the TU Campus. From mid 2020, they should run the normal route again and the travel time is reduced to 5 minutes. From end of 2020, the bus line 69 will be replaced by the extended Tram line 19. Line 174 also served the stop and connects with the Metro Line E in Pijnacker Zuid. </p>
+<h5 id="mcetoc_1drk661tv0">Plan your Trip</h5>
+<p>In order to plan your trip, you can use the travel planner <a href="https://9292.nl" target="_blank" rel="nofollow noopener noreferrer">9292.nl</a> or the app of the national railway company NS which also contains local public transport information <a href="https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html" target="_blank" rel="nofollow noopener noreferrer">www.ns.nl</a></p>
+<h5 id="mcetoc_1drk66bom1">Pay your Fare</h5>
+<p>While it is possible to use one-way disposable tickets at vending stations and, in some forms of transportation, from the driver, you will be charged a surcharge of 1 € per ticket. Consider purchasing an <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a>. </p>
+<p> </p>
+<h2 id="mcetoc_1dq48iquf0">Campus </h2>
+<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/8/campus.jpg" alt="TU Delft Campus" width="728" height="409"> </p>
+<p>TU Delft's campus is one of the largest in the world and spans 161 hectars. It features the faculty buildings as well as common spaces like the sport facilities <a href="https://www.tudelft.nl/en/x/" target="_blank" rel="noopener noreferrer">Delft X</a> and the mixed educational building Pulse. The west side of the campus whith the Aula building is directly adjacent to the old town of Delft. A map of the entire campus can be found <a href="https://iamap.tudelft.nl/en/accessibility-and-parking/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<blockquote>
+<p class="align-left">About 27.000 people travel across our campus every day: students, scientist, visitors, and employees of the university and the companies on campus. Stretching over 161 hectares, the campus is larger than downtown Delft, and one of the largest university campuses in the world. The campus has been equipped with an extensive bicycle and pedestrian road network. The TU Delft campus has a green, parky character. Large parts of the campus are therefore only accessible on foot, by bike or public transport. For motorists there is the campus ring road, which circles the entire campus. Clear signage on the campus ring guides you easily to the central parking lots. From there, every destination is reachable on foot. </p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sponsorship</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/sponsorship.html"/>
+        <id>https://middleware2020.github.io/sponsorship.html</id>
+
+        <updated>2019-12-09T08:16:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Why sponsor Middleware 2020?Enable the next generation of researchers, practitioners and developers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="entry-content single-entry-post">
+<h3 id="mcetoc_1dq45nd3r1" align="left"><strong>Why sponsor Middleware 2020?</strong></h3>
+<ul>
+<li>Enable the next generation of researchers, practitioners and developers attend and participate in Middleware 2020</li>
+<li>Promote your open-source initiatives and encourage academics and industrial participants to use your hardware/software and cloud-based offerings in their research.</li>
+<li>Engage with top quality graduate students from around the world and recruit them to your organization/research lab for internships and full-time positions</li>
+<li>Support graduate students – at least 80% of the money obtained from corporate sponsorships will be used for the Middleware Student Travel Grant program</li>
+</ul>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h3 id="mcetoc_1drko80rv0" class="section-title mr-btm-10"> </h3>
+<h3 id="mcetoc_1dq44tfcb0" class="section-title mr-btm-10">Past Sponsors</h3>
+<p class="section-title-devider mr-btm-10 align-center"> </p>
+<table class=" align-center" style="width: 50rem;">
+<tbody>
+<tr>
+<td style="width: 214.984px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/ibm.png" alt="" width="117" height="117"></td>
+<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/hp.png" alt="" width="117" height="117"></td>
+<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/bbn.png" alt=""></td>
+<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/siemens.png" alt=""></td>
+</tr>
+<tr>
+<td style="width: 214.984px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/google.png" alt=""></td>
+<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/dell.png" alt=""></td>
+<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/kingdee.png" alt=""></td>
+<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/jboss.png" alt=""></td>
+</tr>
+<tr>
+<td style="width: 214.984px;"><img class="img-responsive img-center" src="http://2019.middleware-conference.org/assets/img/HPlogo.png" alt="platinum1.png" width="150" height="150"></td>
+<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/alcatel.png" alt=""></td>
+<td style="width: 225px;"><img class="img-responsive img-center" src="http://2019.middleware-conference.org/assets/img/rti.png" alt="platinum1.png" width="150" height="150"></td>
+<td style="width: 225px;"><img class="centered-img" src="http://2018.middleware-conference.org/wp-content/uploads/Technicolor_logo.svg_.png" alt="" width="238" height="91"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dq45qudk3" class="section-title mr-btm-10 align-center"> </h2>
+<h2 id="mcetoc_1dq44tfcb1" class="section-title mr-btm-10">Sponsorship Levels</h2>
+<div class="entry-content single-entry-post">
+<p align="left"><strong>Bronze: 1000 €</strong></p>
+<ul>
+<li>Sponsor’s name and logo displayed in the conference program, website, advertisements and proceedings along with the sponsorship level</li>
+<li>Supports one student travel grants</li>
+</ul>
+<p align="left"><strong>Silver: 2500 €: </strong>Includes all the benefits of silver level plus</p>
+<ul>
+<li>Promotional materials in the delegate pack/bag</li>
+<li>Includes one complimentary registration</li>
+<li>Supports up to two student travel grants</li>
+</ul>
+<p align="left"><strong>Gold: 5000 €:</strong> Includes all the benefits of silver level plus:</p>
+<ul>
+<li>Poster or Banner in the registration area</li>
+<li>Recruiting and/or product demo booth</li>
+<li>Includes two complimentary registrations</li>
+<li>Supports up to five student travel grants</li>
+</ul>
+<p align="left"><strong>Diamond: 10000 €:</strong> Includes all the benefits of gold level plus:</p>
+<ul>
+<li>Exclusive promotion and recognition of the sponsor at specific conference events, like reception, poster/demo session, banquet or other events. Allocation of diamond sponsors to events will be FCFS (first come first served)</li>
+<li>Includes four complimentary registrations</li>
+<li>Supports up to 10 student travel grants</li>
+</ul>
+<p align="left"><strong>Custom:</strong> Please contact us for custom packages</p>
+</div>
+</div>
+<h2 id="mcetoc_1drko85691" class="mr-btm-72"> </h2>
+<h2 id="mcetoc_1dq45r15o4" class="mr-btm-72">Contact information</h2>
+<p id="mcetoc_1dq45t9ee5" class="mr-btm-72"><a href="mailto:vmuthus_at_us.ibm.com">Vinod Muthusamy</a></p>
+<p id="mcetoc_1dq45tbe96" class="mr-btm-72"><a href="mailto:Y.Chen-10_at_tudelft.nl">Lydia Chen</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Industry Track Program Committee</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/industry-track-program-committee.html"/>
+        <id>https://middleware2020.github.io/industry-track-program-committee.html</id>
+
+        <updated>2019-12-09T01:45:32+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Program Committee</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/program-committee.html"/>
+        <id>https://middleware2020.github.io/program-committee.html</id>
+
+        <updated>2019-12-09T01:45:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    TBD
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                TBD
+            ]]>
+        </content>
+    </entry>
+</feed>
