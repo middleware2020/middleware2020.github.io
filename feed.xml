@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-02-06T20:23:59+01:00</updated>
+    <updated>2020-02-06T20:48:42+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -359,15 +359,64 @@
         <link href="https://middleware2020.github.io/program-committee.html"/>
         <id>https://middleware2020.github.io/program-committee.html</id>
 
-        <updated>2019-12-09T01:45:37+01:00</updated>
+        <updated>2020-02-06T20:48:36+01:00</updated>
             <summary>
                 <![CDATA[
-                    TBD
+                    Atul Adya, Google, USA Christian Becker, University of Mannheim, Germany Sonia Ben&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                TBD
+                <p class="align-center">Atul Adya, Google, USA</p>
+<p class="align-center">Christian Becker, University of Mannheim, Germany</p>
+<p class="align-center">Sonia Ben Mokhtar, LIRIS-CNRS, France</p>
+<p class="align-center">David Bermbach, TU Berlin, Germany</p>
+<p class="align-center">Alysson Bessani, Universidade de Lisboa, Portugal</p>
+<p class="align-center">Annette Bieniusa, Technical University Kaiserslautern, Germany</p>
+<p class="align-center">Gordon Blair, Lancaster University, United Kingdom</p>
+<p class="align-center">Sara Bouchenak, INSA Lyon, France</p>
+<p class="align-center">Roy H. Campbell, University of Illinois at Urbana-Champaign, USA</p>
+<p class="align-center">Lydia Chen, TU Delft, Netherlands</p>
+<p class="align-center">Lucy Cherkasova, ARM Research, USA</p>
+<p class="align-center">Dilma Da Silva, Texas A&amp;M University, USA</p>
+<p class="align-center">Tobias Distler, FAU Erlangen-Nuremberg, Germany</p>
+<p class="align-center">Jim Dowling, KTH Royal Institute of Technology, Sweden</p>
+<p class="align-center">Frank Eliassen, University of Oslo, Norway</p>
+<p class="align-center">Sameh Elnikety, Microsoft Research, USA</p>
+<p class="align-center">David Eyers, University of Otago, New Zealand</p>
+<p class="align-center">Christof Fetzer, TU Dresden, Germany</p>
+<p class="align-center">Pedro Fonseca, Purdue University, USA</p>
+<p class="align-center">Roy Friedman, Technion, Israel</p>
+<p class="align-center">Marisol Garcia-Valls, Universitat Politècnica de València, Spain</p>
+<p class="align-center">Vincenzo Gulisano, Chalmers University of Technology, Sweden<br><br>Indranil Gupta, University of Illinois Urbana-Champaign, USA<br><br>Yu Hua, Huazhong University of Science and Technology, China</p>
+<p class="align-center">Valerie Issarny, INRIA, France</p>
+<p class="align-center">Wouter Joosen, KU Leuven, Belgium</p>
+<p class="align-center">Kaustubh Joshi, AT&amp;T Research, USA</p>
+<p class="align-center">Christine Julien, The University of Texas at Austin, USA</p>
+<p class="align-center">Evangelia Kalyvianaki, University of Cambridge, United Kingdom</p>
+<p class="align-center">Rüdiger Kapitza, TU Braunschweig, Germany</p>
+<p class="align-center">Anne-Marie Kermarrec, EPFL, Switzerland</p>
+<p class="align-center">Fabio Kon, University of Sāo Paulo, Brazil</p>
+<p class="align-center">Dejan Milojicic, Hewlett Packard Labs, USA</p>
+<p class="align-center">Amy L. Murphy, Bruno Kessler Foundation, Italy</p>
+<p class="align-center">Marco Netto, IBM Research, Brazil</p>
+<p class="align-center">Fernando Pedone, University of Lugano, Switzerland</p>
+<p class="align-center">Peter Pietzuch, Imperial College London, United Kingdom</p>
+<p class="align-center">Kaveh Razavi, Vrije Universiteit Amsterdam, Netherlands</p>
+<p class="align-center">Hans P. Reiser, University of Passau, Germany</p>
+<p class="align-center">Etienne Rivière , UC Louvain, Belgium</p>
+<p class="align-center">Romain Rouvoy, University Lille/IUF, France</p>
+<p class="align-center">Laurent Réveillère, University of Bordeaux, France</p>
+<p class="align-center">Mo Sadoghi, UC Davis, USA</p>
+<p class="align-center">Valerio Schiavoni, University of Neuchatel, Switzerland</p>
+<p class="align-center">Mina Sedaghat, Ericsson Research, Sweden</p>
+<p class="align-center">Liuba Shrira, Brandeis University, USA</p>
+<p class="align-center">Maarten van Steen, University of Twente, Netherlands</p>
+<p class="align-center">Amy Tai, VMware Research, USA</p>
+<p class="align-center">Francois Taiani, University Rennes/IRISA, France</p>
+<p class="align-center">Luís Veiga, Universidade de Lisboa, Portugal</p>
+<p class="align-center">Nalini Venkatasubramanian, UC Irvine, USA</p>
+<p class="align-center">Tim Wood, George Washington University, USA</p>
             ]]>
         </content>
     </entry>
