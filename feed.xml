@@ -3,12 +3,132 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-04-04T12:22:08+02:00</updated>
+    <updated>2020-04-07T01:35:22+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Call for Workshops and Tutorials</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/call-for-workshops-and-tutorials.html"/>
+        <id>https://middleware2020.github.io/call-for-workshops-and-tutorials.html</id>
+
+        <updated>2020-04-07T01:29:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    The annual ACM/IFIP Middleware conference is a major forum for the discussion&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">The annual ACM/IFIP Middleware conference is a major forum for the discussion of innovations and recent advances in the design, construction, and use of middleware systems. Middleware is the software that resides between applications and the underlying architecture and platforms, often with an emphasis on networked computing. The goal of middleware is to facilitate the development of applications by providing higher-level abstractions for better programmability, performance, scalability, and security. It is a rapidly evolving and growing field.</span></p>
+<br>
+<p><span style="font-weight: 400;">The Middleware conference traditionally includes a number of high-quality workshops and tutorials. We invite experts on related research subjects to submit one-day or half-day workshop and/or tutorial proposals within the scope of Middleware 2020. Proposed workshops and tutorials can be on any topic related to middleware, but we are particularly interested in workshops and tutorials focusing on emerging middleware areas.</span></p>
+<br>
+<p><span style="font-weight: 400;">Christine Julien, University of Texas, USA</span></p>
+<p><span style="font-weight: 400;">David Eyers, University of Otago, NZ</span></p>
+<p><em><span style="font-weight: 400;">Middleware 2020 Workshop and Tutorial Co-Chairs</span></em></p>
+<p><a href="mailto:middleware2020-workshops@cs.otago.ac.nz"><span style="font-weight: 400;">middleware2020-workshops@cs.otago.ac.nz</span></a></p>
+<p><span style="font-weight: 400;"><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz">middleware2020-tutorials@cs.otago.ac.nz</a><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz"></a></span></p>
+<p> </p>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1dp173ivl0" class="section-title mr-btm-10">Important Dates</h2>
+<div class="entry-content single-entry-post">
+<table align="center">
+<tbody>
+<tr>
+<td><strong>Workshop proposal submission</strong></td>
+<td><strong>May 25, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Tutorial proposal submission</strong></td>
+<td><strong>May 25, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Workshop proposal acceptance notification</strong></td>
+<td><strong>June 1, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Tutorial proposal acceptance notification</strong></td>
+<td><strong>June 1, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Workshop website and CFP online</strong></td>
+<td><strong>June 15, 2020</strong></td>
+</tr>
+<tr>
+<td>Workshop paper submission (approximate)</td>
+<td>August 31, 2020</td>
+</tr>
+<tr>
+<td>Workshop paper notification (approximate)</td>
+<td>September 28, 2020</td>
+</tr>
+<tr>
+<td><strong>Workshop paper camera ready (firm deadline)</strong></td>
+<td><strong>October 16, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Tutorial paper camera ready (firm deadline)</strong></td>
+<td><strong>October 16, 2020</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<p id="mcetoc_1e58t1pgb2">All deadlines are 23:59 AOE.</p>
+<h2 id="mcetoc_1e58t4t903"> </h2>
+<h2 id="mcetoc_1e58t1bk50"><span style="font-weight: 400;">Workshop proposal submission</span></h2>
+<p><span style="font-weight: 400;">Each workshop proposal, not exceeding three pages of 11pt single-spaced text, in PDF format, should include the following information:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the title of the workshop;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the names, affiliations and e-mail addresses of the organizing committee;  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a brief technical description of the workshop topic area; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the history of the workshop, if applicable;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a short description of the intended format of the workshop (keynote speakers, discussions, etc.); </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a description of the intended review process;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">tentative workshop paper submission and notification deadlines (Note that the latest camera-ready hard deadline for all workshop papers is October 16, 2020.);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a brief statement of the relevance of the workshop to Middleware; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a preliminary list of PC members that have accepted to participate in the committee.</span></li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Each workshop will organize its own submissions and reviewing procedures and will provide its own website. A link will be provided to the workshop’s website from the Middleware 2020 website. Workshop organizers will ensure that all accepted papers are peer reviewed and will need to upload camera ready and copyright agreements of all accepted papers in a timely manner through the ACM portal. Organizers will plan their workshop’s schedule so that: (i) the paper submission deadline falls after the main conference's notification date; (ii) authors are notified no later than September 28, 2020; and (iii) authors submit their camera-ready papers no later than October 16, 2020. Accepted papers should be no longer than 6 pages in the standard ACM format. <strong>Note that at least one author on each accepted workshop paper must hold a full pre-conference registration, as must at least one workshop organiser.</strong> Workshop organizers are responsible for preparing the papers for their workshops in the format required by ACM. As in previous years, the Middleware conference organizers will provide companion proceedings including all workshop papers, which will be available in the ACM Digital Library. <strong>This is subject to the availability of their camera-ready papers by October 16, 2020.</strong></span></p>
+<br>
+<p><span style="font-weight: 400;">Middleware requires workshop organizers to use HotCRP (</span><a href="https://hotcrp.com/"><span style="font-weight: 400;">https://hotcrp.com/</span></a><span style="font-weight: 400;">) to collect submissions, manage reviewing, and facilitate collection of material for the proceedings. HotCRP is free of charge for Middleware workshops and provides many useful tools, such as to manage copyright assignment, final-version submission, PDF checking, and proceedings construction.</span></p>
+<br>
+<p><span style="font-weight: 400;">Workshop proposals must be sent to:</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><a href="mailto:middleware2020-workshops@cs.otago.ac.nz">middleware2020-workshops@cs.otago.ac.nz</a><a href="mailto:middleware2020-workshops@cs.otago.ac.nz"></a></span></p>
+<p> </p>
+<h2 id="mcetoc_1e58t1bk51"><span style="font-weight: 400;">Tutorial proposal submission</span></h2>
+<p><span style="font-weight: 400;">The Middleware conference traditionally includes tutorials given by renowned scientists and practitioners in their fields. We welcome tutorials on both mature and emerging topics. Tutorials may be lectures, interactive workshops, hands-on training, or any combination of the above, with a preference for ideas where there is some degree of interactivity. We especially welcome cross-disciplinary topics and innovative ways of interacting with the audience.</span></p>
+<br>
+<p><span style="font-weight: 400;">Each tutorial proposal, not exceeding five pages of 11pt single-spaced text, in PDF format, should include the following information:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the title of the tutorial;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the names, affiliations and e-mail addresses of the tutorial presenters;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a short outline of the tutorial content;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a short description of the presenters’ experience in teaching and in tutorial presentation;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">references to previous editions of the tutorial (if applicable) including their date, venue, topics and number of participants and the motivation for the new proposal;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the type of tutorial presentation (e.g., mix of lecturing versus practical exercises);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">any special requirements for the tutorial room;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">requirements for attendees (e.g., if attendees must bring their own laptop or other hardware, familiarity with certain technologies or topics, etc.);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">any constraints on the maximum number of participants;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">sample video of a talk (encouraged, not required) especially for first-time tutorial presenters;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">a brief statement of the relevance of the tutorial to Middleware.</span></li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Proposers of accepted tutorials will be asked to provide information of their tutorial for publication on the conference web site. Note that at least one author on each accepted tutorial must hold a full pre-conference registration.</span></p>
+<br>
+<p><span style="font-weight: 400;">Tutorial proposals must be sent to:</span><span style="font-weight: 400;"><br></span><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz"><span style="font-weight: 400;">middleware2020-tutorials@cs.otago.ac.nz</span></a></p>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Call For Doctoral Symposium</title>
         <author>
@@ -17,7 +137,7 @@
         <link href="https://middleware2020.github.io/call-for-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/call-for-doctoral-symposium.html</id>
 
-        <updated>2020-03-09T16:34:46+01:00</updated>
+        <updated>2020-04-07T01:35:16+02:00</updated>
             <summary>
                 <![CDATA[
                     The annual ACM/IFIP Middleware conference will include a doctoral symposium, to which&hellip;
@@ -70,6 +190,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pramod Bhatotia (University of Edinburgh)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ana Lucia Varbanescu (University of Amsterdam)</span></li>
 </ul>
+<p><a href="mailto:middleware20dw@tudelft.nl" target="_blank" rel="noopener noreferrer">middleware20dw@tudelft.nl</a></p>
             ]]>
         </content>
     </entry>
@@ -457,17 +578,5 @@
 <p id="mcetoc_1dq45tbe96" class="mr-btm-72"><a href="mailto:Y.Chen-10_at_tudelft.nl">Lydia Chen</a></p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Industry Track Program Committee</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/industry-track-program-committee.html"/>
-        <id>https://middleware2020.github.io/industry-track-program-committee.html</id>
-
-        <updated>2019-12-09T01:45:32+01:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
