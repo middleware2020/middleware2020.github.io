@@ -3,12 +3,100 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-04-07T01:36:52+02:00</updated>
+    <updated>2020-04-30T11:22:23+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Call for Demos and Posters</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/call-for-posters-and-demos.html"/>
+        <id>https://middleware2020.github.io/call-for-posters-and-demos.html</id>
+
+        <updated>2020-04-30T11:21:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Middleware 2020 will provide a forum for live software demonstrations of middleware&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="section-title-wrap mr-btm-72 text-center">
+<div class="">Middleware 2020 will provide a forum for live software demonstrations of middleware applications, systems, and tools. Demos could take a wide and open-ended variety of forms. Typical examples include: (i) presentation of an application that leverages advanced middleware concepts, (ii) working through coding of an example on a novel middleware platform, or (iii) real-time visualizations of middleware system metrics under simulated workloads. Although the form may vary, demo presenters should take advantage of not being constrained by the format of a traditional slide presentation. Demos are encouraged for both early prototypes and mature technology.</div>
+<div class=""> </div>
+<div class="">Posters will provide an opportunity for conference attendees to learn about innovative work in progress and to preview late-breaking research results. Poster sessions will provide an informal setting for presenters to communicate ideas or results and also to collect feedback from attendees.</div>
+<br>
+<p align="left">Demo or poster contributions are solicited in all areas of middleware research and applications. For a list of applicable topics, please consider those from the call for papers.</p>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1e755qp3j0" class="section-title mr-btm-10">Important Dates</h2>
+<div class="entry-content single-entry-post">
+<table align="center">
+<tbody>
+<tr>
+<td><strong>Submission</strong></td>
+<td class="align-left"><strong>Monday, September 14, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Notification</strong></td>
+<td class="align-left"><strong>Monday, September 28, 2020</strong></td>
+</tr>
+<tr>
+<td><strong>Camera Ready Deadline</strong></td>
+<td class="align-left"><strong>Friday, October 16, 2020</strong></td>
+</tr>
+</tbody>
+</table>
+<br>
+<p>Submit your posters and demos through HotCRP <a href="https://middleware19demos-posters.hotcrp.com/">https://middleware20demos-posters.</a><a href="#INTERNAL_LINK#/post/null">hotcrp</a>.com.</p>
+<p> </p>
+<p>The authors of accepted demos and posters must prepare a single slide that provides an overview of their work which will be presented during the "1-minute madness" session that precedes the demo and poster session.</p>
+<p>Accepted Demos and Posters papers will be included in the Middleware 2020 conference proceedings that will be published in the ACM Digital Library. The official publication date will be the date the proceedings are made available in the ACM Digital Library which may be up to two weeks prior to the first day of the Middleware conference. Note that the official publication date affects the deadline for any patent filings related to published work.</p>
+</div>
+</div>
+<div class="section-title-wrap mr-btm-72">
+<h2 id="mcetoc_1e755qp3j1" class="section-title mr-btm-10">Demo Submissions</h2>
+<div class="entry-content single-entry-post">
+<p align="left">Submissions describing live demos should be at most 3 pages PDF using the ACM SIGPLAN style, which can found on the ACM template page. <strong>The font size has to be set to 10pt. </strong>The first two pages will include a description of the demo that will be included in the Middleware proceedings. The last page will outline aspects of the demo that will be considered during evaluation, but will not appear in the proceedings.</p>
+<p align="left">Pages 1 and 2 should include the following:</p>
+<ul>
+<li>Title of the demo (including beginning with "Demo Abstract:"),</li>
+<li>Authors, affiliation, and contact information,</li>
+<li>Description of the problems addressed,</li>
+<li>Research and technical approach,</li>
+<li>Related work with bibliography.</li>
+</ul>
+<p align="left">Page 3 should contain any additional information that will be used only to evaluate your demonstration proposal: it will not be part of the proceedings. For example, you may detail what you will show during the demo, provide links to additional online material related to your demo, e.g., videos, etc. You may also use this space to outline any special requirements you have for the demonstration, e.g., unusual space needs, exclusive access to a wireless channel, etc. The format of this page is at your discretion.</p>
+</div>
+</div>
+<div class="mr-btm-72">
+<h2 id="mcetoc_1e755qp3j2" class="section-title mr-btm-10">Poster Submissions</h2>
+<div class="entry-content single-entry-post">
+<p align="left">Submissions describing posters should be at most 2 pages PDF using the ACM SIGPLAN style, which can found on the ACM template page. <strong>The font size has to be set to 10pt. </strong></p>
+<p align="left">The submission should include:</p>
+<ul>
+<li>Title of the poster (beginning with "Poster Abstract:"),</li>
+<li>Authors, affiliation, and contact information,</li>
+<li>Description of the problems addressed,</li>
+<li>Research and technical approach,</li>
+<li>Any preliminary results,</li>
+<li>Related work with bibliography.</li>
+</ul>
+<p> </p>
+<p>If you have questions or encounter any problems, please notify the Demo and Poster chairs:</p>
+<ul>
+<li>Angela Nicoara, anicoara@hotmail.com</li>
+<li>Ihor Khuz, Ihor.Kuz@data61.csiro.au</li>
+</ul>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Call for Workshops and Tutorials</title>
         <author>
@@ -17,7 +105,7 @@
         <link href="https://middleware2020.github.io/call-for-workshops-and-tutorials.html"/>
         <id>https://middleware2020.github.io/call-for-workshops-and-tutorials.html</id>
 
-        <updated>2020-04-07T01:29:48+02:00</updated>
+        <updated>2020-04-30T11:15:57+02:00</updated>
             <summary>
                 <![CDATA[
                     The annual ACM/IFIP Middleware conference is a major forum for the discussion&hellip;
@@ -137,7 +225,7 @@
         <link href="https://middleware2020.github.io/call-for-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/call-for-doctoral-symposium.html</id>
 
-        <updated>2020-04-07T01:35:16+02:00</updated>
+        <updated>2020-04-30T11:16:06+02:00</updated>
             <summary>
                 <![CDATA[
                     The annual ACM/IFIP Middleware conference will include a doctoral symposium, to which&hellip;
@@ -486,96 +574,6 @@
 <p class="align-left">About 27.000 people travel across our campus every day: students, scientist, visitors, and employees of the university and the companies on campus. Stretching over 161 hectares, the campus is larger than downtown Delft, and one of the largest university campuses in the world. The campus has been equipped with an extensive bicycle and pedestrian road network. The TU Delft campus has a green, parky character. Large parts of the campus are therefore only accessible on foot, by bike or public transport. For motorists there is the campus ring road, which circles the entire campus. Clear signage on the campus ring guides you easily to the central parking lots. From there, every destination is reachable on foot. </p>
 </blockquote>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sponsorship</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/sponsorship.html"/>
-        <id>https://middleware2020.github.io/sponsorship.html</id>
-
-        <updated>2019-12-09T08:16:19+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Why sponsor Middleware 2020?Enable the next generation of researchers, practitioners and developers&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="entry-content single-entry-post">
-<h3 id="mcetoc_1dq45nd3r1" align="left"><strong>Why sponsor Middleware 2020?</strong></h3>
-<ul>
-<li>Enable the next generation of researchers, practitioners and developers attend and participate in Middleware 2020</li>
-<li>Promote your open-source initiatives and encourage academics and industrial participants to use your hardware/software and cloud-based offerings in their research.</li>
-<li>Engage with top quality graduate students from around the world and recruit them to your organization/research lab for internships and full-time positions</li>
-<li>Support graduate students – at least 80% of the money obtained from corporate sponsorships will be used for the Middleware Student Travel Grant program</li>
-</ul>
-</div>
-<div class="section-title-wrap mr-btm-72">
-<h3 id="mcetoc_1drko80rv0" class="section-title mr-btm-10"> </h3>
-<h3 id="mcetoc_1dq44tfcb0" class="section-title mr-btm-10">Past Sponsors</h3>
-<p class="section-title-devider mr-btm-10 align-center"> </p>
-<table class=" align-center" style="width: 50rem;">
-<tbody>
-<tr>
-<td style="width: 214.984px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/ibm.png" alt="" width="117" height="117"></td>
-<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/hp.png" alt="" width="117" height="117"></td>
-<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/bbn.png" alt=""></td>
-<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/siemens.png" alt=""></td>
-</tr>
-<tr>
-<td style="width: 214.984px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/google.png" alt=""></td>
-<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/dell.png" alt=""></td>
-<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/kingdee.png" alt=""></td>
-<td style="width: 225px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/jboss.png" alt=""></td>
-</tr>
-<tr>
-<td style="width: 214.984px;"><img class="img-responsive img-center" src="http://2019.middleware-conference.org/assets/img/HPlogo.png" alt="platinum1.png" width="150" height="150"></td>
-<td style="width: 239.016px;"><img class="img-responsive" src="http://2019.middleware-conference.org/assets/img/cl/alcatel.png" alt=""></td>
-<td style="width: 225px;"><img class="img-responsive img-center" src="http://2019.middleware-conference.org/assets/img/rti.png" alt="platinum1.png" width="150" height="150"></td>
-<td style="width: 225px;"><img class="centered-img" src="http://2018.middleware-conference.org/wp-content/uploads/Technicolor_logo.svg_.png" alt="" width="238" height="91"></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="section-title-wrap mr-btm-72">
-<h2 id="mcetoc_1dq45qudk3" class="section-title mr-btm-10 align-center"> </h2>
-<h2 id="mcetoc_1dq44tfcb1" class="section-title mr-btm-10">Sponsorship Levels</h2>
-<div class="entry-content single-entry-post">
-<p align="left"><strong>Bronze: 1000 €</strong></p>
-<ul>
-<li>Sponsor’s name and logo displayed in the conference program, website, advertisements and proceedings along with the sponsorship level</li>
-<li>Supports one student travel grants</li>
-</ul>
-<p align="left"><strong>Silver: 2500 €: </strong>Includes all the benefits of silver level plus</p>
-<ul>
-<li>Promotional materials in the delegate pack/bag</li>
-<li>Includes one complimentary registration</li>
-<li>Supports up to two student travel grants</li>
-</ul>
-<p align="left"><strong>Gold: 5000 €:</strong> Includes all the benefits of silver level plus:</p>
-<ul>
-<li>Poster or Banner in the registration area</li>
-<li>Recruiting and/or product demo booth</li>
-<li>Includes two complimentary registrations</li>
-<li>Supports up to five student travel grants</li>
-</ul>
-<p align="left"><strong>Diamond: 10000 €:</strong> Includes all the benefits of gold level plus:</p>
-<ul>
-<li>Exclusive promotion and recognition of the sponsor at specific conference events, like reception, poster/demo session, banquet or other events. Allocation of diamond sponsors to events will be FCFS (first come first served)</li>
-<li>Includes four complimentary registrations</li>
-<li>Supports up to 10 student travel grants</li>
-</ul>
-<p align="left"><strong>Custom:</strong> Please contact us for custom packages</p>
-</div>
-</div>
-<h2 id="mcetoc_1drko85691" class="mr-btm-72"> </h2>
-<h2 id="mcetoc_1dq45r15o4" class="mr-btm-72">Contact information</h2>
-<p id="mcetoc_1dq45t9ee5" class="mr-btm-72"><a href="mailto:vmuthus_at_us.ibm.com">Vinod Muthusamy</a></p>
-<p id="mcetoc_1dq45tbe96" class="mr-btm-72"><a href="mailto:Y.Chen-10_at_tudelft.nl">Lydia Chen</a></p>
             ]]>
         </content>
     </entry>
