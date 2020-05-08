@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-05-01T13:45:15+02:00</updated>
+    <updated>2020-05-08T14:51:02+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/call-for-posters-and-demos.html"/>
         <id>https://middleware2020.github.io/call-for-posters-and-demos.html</id>
 
-        <updated>2020-05-01T13:44:59+02:00</updated>
+        <updated>2020-05-08T14:50:57+02:00</updated>
             <summary>
                 <![CDATA[
                     Middleware 2020 will provide a forum for live software demonstrations of middleware&hellip;
@@ -29,7 +29,6 @@
 <div class="">Middleware 2020 will provide a forum for live software demonstrations of middleware applications, systems, and tools. Demos could take a wide and open-ended variety of forms. Typical examples include: (i) presentation of an application that leverages advanced middleware concepts, (ii) working through coding of an example on a novel middleware platform, or (iii) real-time visualizations of middleware system metrics under simulated workloads. Although the form may vary, demo presenters should take advantage of not being constrained by the format of a traditional slide presentation. Demos are encouraged for both early prototypes and mature technology.</div>
 <div class=""> </div>
 <div class="">Posters will provide an opportunity for conference attendees to learn about innovative work in progress and to preview late-breaking research results. Poster sessions will provide an informal setting for presenters to communicate ideas or results and also to collect feedback from attendees.</div>
-<br>
 <p align="left">Demo or poster contributions are solicited in all areas of middleware research and applications. For a list of applicable topics, please consider those from the call for papers.</p>
 </div>
 <div class="section-title-wrap mr-btm-72">
@@ -52,8 +51,7 @@
 </tbody>
 </table>
 <br>
-<p>Submit your posters and demos through HotCRP <a href="https://middleware19demos-posters.hotcrp.com/">https://middleware20demos-posters.</a><a href="#INTERNAL_LINK#/post/null">hotcrp</a>.com.</p>
-<p> </p>
+<p>Submit your posters and demos through <a href="https://middleware20demos-posters.hotcrp.com">HotCRP</a>.</p>
 <p>The authors of accepted demos and posters must prepare a single slide that provides an overview of their work which will be presented during the "1-minute madness" session that precedes the demo and poster session.</p>
 <p>Accepted Demos and Posters papers will be included in the Middleware 2020 conference proceedings that will be published in the ACM Digital Library. The official publication date will be the date the proceedings are made available in the ACM Digital Library which may be up to two weeks prior to the first day of the Middleware conference. Note that the official publication date affects the deadline for any patent filings related to published work.</p>
 </div>
@@ -89,7 +87,7 @@
 <p> </p>
 <p>If you have questions or encounter any problems, please notify the Demo and Poster chairs:</p>
 <ul>
-<li>Angela Nicoara, anicoara@hotmail.com</li>
+<li>Angela Nicoara, angela.nicoara@hslu.ch</li>
 <li>Ihor Khuz, Ihor.Kuz@data61.csiro.au</li>
 </ul>
 </div>
