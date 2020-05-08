@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-05-08T14:51:02+02:00</updated>
+    <updated>2020-05-08T15:20:34+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/call-for-posters-and-demos.html"/>
         <id>https://middleware2020.github.io/call-for-posters-and-demos.html</id>
 
-        <updated>2020-05-08T14:50:57+02:00</updated>
+        <updated>2020-05-08T15:20:30+02:00</updated>
             <summary>
                 <![CDATA[
                     Middleware 2020 will provide a forum for live software demonstrations of middleware&hellip;
@@ -59,7 +59,7 @@
 <div class="section-title-wrap mr-btm-72">
 <h2 id="mcetoc_1e755qp3j1" class="section-title mr-btm-10">Demo Submissions</h2>
 <div class="entry-content single-entry-post">
-<p align="left">Submissions describing live demos should be at most 3 pages PDF using the ACM SIGPLAN style, which can found on the <a href="https://www.acm.org/publications/proceedings-template" target="_blank" rel="noopener noreferrer">ACM template page</a>. <strong>The font size has to be set to 10pt. </strong>The first two pages will include a description of the demo that will be included in the Middleware proceedings. The last page will outline aspects of the demo that will be considered during evaluation, but will not appear in the proceedings.</p>
+<p align="left">Submissions describing live demos should be at most 3 pages PDF using the ACM SIGPLAN style, which can be found on the <a href="https://www.acm.org/publications/proceedings-template" target="_blank" rel="noopener noreferrer">ACM template page</a>. <strong>The font size has to be set to 10pt. </strong>The first two pages will include a description of the demo that will be included in the Middleware proceedings. The last page will outline aspects of the demo that will be considered during evaluation, but will not appear in the proceedings.</p>
 <p align="left">Pages 1 and 2 should include the following:</p>
 <ul>
 <li>Title of the demo (including beginning with "Demo Abstract:"),</li>
