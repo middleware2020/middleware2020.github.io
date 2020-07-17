@@ -3,12 +3,40 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-07-14T00:09:46+02:00</updated>
+    <updated>2020-07-17T10:04:20+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Workshops</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/workshops.html"/>
+        <id>https://middleware2020.github.io/workshops.html</id>
+
+        <updated>2020-07-17T10:04:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ARM 2020: 19th Workshop on Adaptive and Reflexive Middleware Containers: 6th International&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">ARM 2020: 19th Workshop on Adaptive and Reflexive Middleware</p>
+<p class="align-center">Containers: 6th International Workshop on Container Technologies and Container Clouds</p>
+<p class="align-center">DFDS 2020: 3rd International Workshop on Distributed Fog Services Design</p>
+<p class="align-center"><a href="https://dicg2020.github.io/" target="_blank" rel="noopener noreferrer">DICG: 1st International Workshop on Distributed Infrastructure for Common Good</a></p>
+<p class="align-center"><a href="https://didl-conf.github.io/didl4/index.html" target="_blank" rel="noopener noreferrer">DIDL: 4th Workshop on Distributed Infrastructures for Deep Learning</a></p>
+<p class="align-center">IoTNetSim: </p>
+<p class="align-center">M4IOT 2020: 7th International Workshop on Middleware and Applications for the Internet of Things</p>
+<p class="align-center"><a href="https://serial.ibr.cs.tu-bs.de/serial20/" target="_blank" rel="noopener noreferrer">SERIAL: 4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers</a></p>
+<p class="align-center"><a href="https://www.serverlesscomputing.org/wosc6/" target="_blank" rel="noopener noreferrer">WoSC: 6th Workshop on Serverless Computing</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Call for Demos and Posters</title>
         <author>
@@ -529,48 +557,6 @@
             <![CDATA[
                 <p class="align-center"><img class="post__image--center" src="https://middleware2020.github.io/media/posts/9/autoradio-4672254_1920.jpg" alt="stay tuned" width="406" height="276"></p>
 <p class="align-center msg msg--info"><strong><em>This information is not available at this point. Stay tuned for updates!</em></strong></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Venue Information</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/venue-information.html"/>
-        <id>https://middleware2020.github.io/venue-information.html</id>
-
-        <updated>2019-12-12T17:58:20+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Aula Conference Center, TU Delft Middleware 2020 will be held in the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2 id="mcetoc_1drko5d6t0"> </h2>
-<h2 id="mcetoc_1drk7rgkb0">Aula Conference Center, TU Delft </h2>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/8/AulaNew.jpg" alt="TU Delft Aula" width="670" height="278"> </p>
-<p>Middleware 2020 will be held in the <a href="https://iamap.tudelft.nl/en/poi/aula-conference-center" target="_blank" rel="noopener noreferrer">Aula Conference Center</a>, located in the heart of the <a href="http://www.tudelft.nl" target="_blank" rel="noopener noreferrer">TU Delft</a> campus. It offers a variety of different meeting rooms, an auditorium, various facilities, and large exhibition areas. A bar and a buffet restaurant are located on the ground floor. All rooms of the TU Delft Conference Centre are equipped with necessary technology (screen, computer, connectors). Eduroam and conference wifi is available. The building is fully accessible.</p>
-<h2 id="mcetoc_1dq48u2ef0">Visitor Address</h2>
-<p id="mcetoc_1dq48vc9i1">TU Delft Aula Conference Centre (Building 20)<br>Mekelweg 5<br>2628 CC Delft<br>The Netherlands</p>
-<h2 id="mcetoc_1dq4am6sp1">Bicyling</h2>
-<p>The bicycle is the traditional mode of transportation in the Netherlands. Delft has an extensive network of bike lanes, including some dedicated roads for bicycles. Most public places have a large number of bike racks for parking. Be mindful that bike lanes and cycle paths can be very busy during the peak hours and you should be reasonably experienced when cycling in dense traffic. Information about the most important traffic rules for bicycles can be found on <a href="https://www.holland.com/global/tourism/information/general/cycling-rules-in-holland.htm" target="_blank" rel="nofollow noopener noreferrer">www.holland.com</a>.</p>
-<p>Bikes can be rented from various places in the city. The orange bikes from Mobike can be unlocked and used through their <a href="https://mobike.com" target="_blank" rel="nofollow noopener noreferrer">mobile app</a></p>
-<h2 id="mcetoc_1dq4aloo00">Public Transport</h2>
-<p>The Aula Conference Center can easily be reached with public transport. The bus stop <em>TU Aula</em> is in close proximity to the building. At this moment, it is served by the bus lines 40 and 69 which both depart from the central station. Due to construction work on a new bridge, the buses currently take a detour and take about 20 minutes to reach the TU Campus. From mid 2020, they should run the normal route again and the travel time is reduced to 5 minutes. From end of 2020, the bus line 69 will be replaced by the extended Tram line 19. Line 174 also served the stop and connects with the Metro Line E in Pijnacker Zuid. </p>
-<h5 id="mcetoc_1drk661tv0">Plan your Trip</h5>
-<p>In order to plan your trip, you can use the travel planner <a href="https://9292.nl" target="_blank" rel="nofollow noopener noreferrer">9292.nl</a> or the app of the national railway company NS which also contains local public transport information <a href="https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html" target="_blank" rel="nofollow noopener noreferrer">www.ns.nl</a></p>
-<h5 id="mcetoc_1drk66bom1">Pay your Fare</h5>
-<p>While it is possible to use one-way disposable tickets at vending stations and, in some forms of transportation, from the driver, you will be charged a surcharge of 1 € per ticket. Consider purchasing an <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a>. </p>
-<p> </p>
-<h2 id="mcetoc_1dq48iquf0">Campus </h2>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/8/campus.jpg" alt="TU Delft Campus" width="679" height="391"> </p>
-<p>TU Delft's campus is one of the largest in the world and spans 161 hectars. It features the faculty buildings as well as common spaces like the sport facilities <a href="https://www.tudelft.nl/en/x/" target="_blank" rel="noopener noreferrer">Delft X</a> and the mixed educational building Pulse. The west side of the campus with the Aula building is directly adjacent to the old town of Delft. A map of the entire campus can be found <a href="https://iamap.tudelft.nl/en/accessibility-and-parking/" target="_blank" rel="noopener noreferrer">here</a>.</p>
-<blockquote>
-<p class="align-left">About 27.000 people travel across our campus every day: students, scientist, visitors, and employees of the university and the companies on campus. Stretching over 161 hectares, the campus is larger than downtown Delft, and one of the largest university campuses in the world. The campus has been equipped with an extensive bicycle and pedestrian road network. The TU Delft campus has a green, parky character. Large parts of the campus are therefore only accessible on foot, by bike or public transport. For motorists there is the campus ring road, which circles the entire campus. Clear signage on the campus ring guides you easily to the central parking lots. From there, every destination is reachable on foot. </p>
-</blockquote>
 <p> </p>
             ]]>
         </content>
