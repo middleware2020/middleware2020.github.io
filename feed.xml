@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-07-17T10:04:20+02:00</updated>
+    <updated>2020-07-30T22:22:20+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/workshops.html"/>
         <id>https://middleware2020.github.io/workshops.html</id>
 
-        <updated>2020-07-17T10:04:15+02:00</updated>
+        <updated>2020-07-30T22:22:11+02:00</updated>
             <summary>
                 <![CDATA[
                     ARM 2020: 19th Workshop on Adaptive and Reflexive Middleware Containers: 6th International&hellip;
@@ -26,12 +26,11 @@
         <content type="html">
             <![CDATA[
                 <p class="align-center">ARM 2020: 19th Workshop on Adaptive and Reflexive Middleware</p>
-<p class="align-center">Containers: 6th International Workshop on Container Technologies and Container Clouds</p>
-<p class="align-center">DFDS 2020: 3rd International Workshop on Distributed Fog Services Design</p>
+<p class="align-center"><a href="https://sites.google.com/view/containers20/home" target="_blank" rel="noopener noreferrer">Containers: 6th International Workshop on Container Technologies and Container Clouds</a></p>
+<p class="align-center"><a href="http://www.dilute.no/dfsd/2020" target="_blank" rel="noopener noreferrer">DFDS 2020: 3rd International Workshop on Distributed Fog Services Design</a></p>
 <p class="align-center"><a href="https://dicg2020.github.io/" target="_blank" rel="noopener noreferrer">DICG: 1st International Workshop on Distributed Infrastructure for Common Good</a></p>
 <p class="align-center"><a href="https://didl-conf.github.io/didl4/index.html" target="_blank" rel="noopener noreferrer">DIDL: 4th Workshop on Distributed Infrastructures for Deep Learning</a></p>
-<p class="align-center">IoTNetSim: </p>
-<p class="align-center">M4IOT 2020: 7th International Workshop on Middleware and Applications for the Internet of Things</p>
+<p class="align-center"><a href="http://www.m4iot.org/" target="_blank" rel="noopener noreferrer">M4IOT 2020: 7th International Workshop on Middleware and Applications for the Internet of Things</a></p>
 <p class="align-center"><a href="https://serial.ibr.cs.tu-bs.de/serial20/" target="_blank" rel="noopener noreferrer">SERIAL: 4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers</a></p>
 <p class="align-center"><a href="https://www.serverlesscomputing.org/wosc6/" target="_blank" rel="noopener noreferrer">WoSC: 6th Workshop on Serverless Computing</a></p>
             ]]>
