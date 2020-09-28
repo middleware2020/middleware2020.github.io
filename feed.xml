@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-09-17T17:27:35+02:00</updated>
+    <updated>2020-09-28T23:45:21+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -250,7 +250,7 @@
         <link href="https://middleware2020.github.io/call-for-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/call-for-doctoral-symposium.html</id>
 
-        <updated>2020-05-01T13:44:17+02:00</updated>
+        <updated>2020-09-28T23:45:14+02:00</updated>
             <summary>
                 <![CDATA[
                     The annual ACM/IFIP Middleware conference will include a doctoral symposium, to which&hellip;
@@ -278,15 +278,15 @@
 <tbody>
 <tr>
 <td><strong>Submission</strong></td>
-<td class="align-left"><strong><strong>Friday, September 25, 2020</strong></strong></td>
+<td class="align-left"><span style="text-decoration: line-through;"><strong><strong>Friday, September 25, 2020</strong></strong></span><strong><strong> Thursday, October 15, 2020</strong></strong></td>
 </tr>
 <tr>
 <td><strong>Notification</strong></td>
-<td class="align-left"><strong>Sunday, October 11, 2020</strong></td>
+<td class="align-left"><strong><span style="text-decoration: line-through;">Sunday, October 11, 2020</span> Monday, October 26, 2020</strong></td>
 </tr>
 <tr>
 <td><strong>Camera Ready Deadline</strong></td>
-<td class="align-left"><strong>Friday, October 16, 2020</strong></td>
+<td class="align-left"><strong><span style="text-decoration: line-through;">Friday, October 16, 2020</span> Friday, October 30, 2020</strong></td>
 </tr>
 </tbody>
 </table>
