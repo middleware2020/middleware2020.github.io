@@ -37,14 +37,14 @@
             "id": "https://middleware2020.github.io/signup.html",
             "url": "https://middleware2020.github.io/signup.html",
             "title": "Signup",
-            "content_html": "<iframe width=\"100%\" height=\"100%\" style=\"border: none;\" src=\"http://eepurl.com/hhZx8r\"></iframe>",
+            "content_html": "<iframe width=\"100%\" height=\"1000\" style=\"border: none;\" src=\"http://eepurl.com/hhZx8r\"></iframe>",
             "author": {
                 "name": "rjan"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T00:21:14+01:00",
-            "date_modified": "2020-11-05T00:33:11+01:00"
+            "date_modified": "2020-11-05T00:35:56+01:00"
         },
         {
             "id": "https://middleware2020.github.io/workshops.html",
