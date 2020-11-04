@@ -3,12 +3,36 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-05T00:22:01+01:00</updated>
+    <updated>2020-11-05T00:28:03+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Presentation Instructions</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/presentation-instructions.html"/>
+        <id>https://middleware2020.github.io/presentation-instructions.html</id>
+
+        <updated>2020-11-05T00:23:25+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Conference Program</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/conference-program.html"/>
+        <id>https://middleware2020.github.io/conference-program.html</id>
+
+        <updated>2020-11-05T00:22:48+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Signup</title>
         <author>
@@ -17,7 +41,7 @@
         <link href="https://middleware2020.github.io/signup.html"/>
         <id>https://middleware2020.github.io/signup.html</id>
 
-        <updated>2020-11-05T00:21:14+01:00</updated>
+        <updated>2020-11-05T00:27:59+01:00</updated>
             <summary>
                 <![CDATA[
                     Subscribe* indicates requiredEmail Address * First Name * Last Name * Institution&hellip;
@@ -28,7 +52,7 @@
                 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://tudelft.us2.list-manage.com/subscribe/post?u=8b14df4593c2908f160ffa9dc&amp;id=1440e76bcc" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
-<h2 id="mcetoc_1emap0p8f0">Subscribe</h2>
+<h2 id="mcetoc_1emapcjr50">Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span> </label> <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value=""></div>
 <div class="mc-field-group"><label for="mce-FNAME">First Name <span class="asterisk">*</span> </label> <input id="mce-FNAME" class="required" name="FNAME" type="text" value=""></div>
@@ -458,132 +482,6 @@
 </ul>
 <p>ACM does not provide letters for transport of vendor or presenter equipment. ACM suggests shipping the materials insured to the conference facility.</p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Accommodation</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/accommodation.html"/>
-        <id>https://middleware2020.github.io/accommodation.html</id>
-
-        <updated>2020-02-06T21:11:19+01:00</updated>
-            <summary>
-                <![CDATA[
-                    All hotel bookings must be arranged directly with the hotels. The discount code, where&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>All hotel bookings must be arranged directly with the hotels. The discount code, where required, is <em>Middleware2020</em>. </p>
-<p>We recommend to make the reservations well in advance due to the limited number of discounted rooms. </p>
-<table class="center">
-<tbody>
-<tr>
-<td class="align-left"><strong>Hotel</strong></td>
-<td> </td>
-<td class="align-left"><strong>Negotiated Rates</strong></td>
-</tr>
-<tr>
-<td class="align-left"><strong>Best Western Museumhotels Delft</strong><br>Oude Delft 189<br>2611 HD Delft<br>+31 15 2153070<br><a href="mailto:info@museumhotels.nl">info@museumhotels.nl</a><br><a href="https://www.museumhotels.nl/en/">www.museumhotels.nl</a> </td>
-<td><strong>****</strong></td>
-<td class="align-left">
-<p>Standard room € <em>95</em></p>
-<p>Reservation:<br><a href="mailto:info@museumhotels.nl">info@museumhotels.nl</a><br>+31 15 2153070</p>
-</td>
-</tr>
-<tr>
-<td class="align-left"><strong>Hotel Westcord</strong><br>Olof Palmestraat 2<br>2616 LM Delft<br>+31 15 8889010<br><a href="mailto:delft@westcordhotels.nl">delft@westcordhotels.nl</a><br><a href="http://www.westcordhotels.com/">www.westcordhotels.com</a> </td>
-<td><strong>****</strong></td>
-<td class="align-left">
-<p>Comfort € <em>116</em><br>Comfort Deluxe € <em>126,50</em><br>Studio € 146,50</p>
-<p>Reservation (no code required):<br><a href="https://westcordhotels.com/tudelft/">https://westcordhotels.com/tudelft/</a></p>
-</td>
-</tr>
-<tr>
-<td class="align-left"><strong>Hampshire</strong><br>Koepoortplaats 3<br>2612 RR Delft<br>+31 15 2122125<br><a href="mailto:info@hoteldelftcentre.nl">info@hoteldelftcentre.nl</a><br><a href="http://www.hoteldelftcentre.nl/">www.hoteldelftcentre.nl</a></td>
-<td><strong>****</strong></td>
-<td class="align-left">
-<p>Comfort 110,50 €</p>
-<p>Reservation:<br><a href="mailto:reserveringen@hoteldelftcentre.nl">reserveringen@hoteldelftcentre.nl</a><br>+31 15 2122125</p>
-</td>
-</tr>
-<tr>
-<td class="align-left"><strong>Hotel De Plataan</strong><br>Doelenplein 10<br>2611 BP Delft<br>+31 15 2126046<br><a href="mailto:info@hoteldeplataan.nl">info@hoteldeplataan.nl</a><br><a href="http://www.hoteldeplataan.nl/">www.hoteldeplataan.nl</a></td>
-<td><strong>***</strong></td>
-<td class="align-left">
-<p>Standard room € <em>99</em><br>Double room € <em>117</em><br> <br>Reservation: <a href="https://booking.roomraccoon.com/hotel-de-plataan-delft-centrum/en/" target="_blank" rel="noopener noreferrer">website</a><br>(activate discount code top right)</p>
-</td>
-</tr>
-<tr>
-<td class="align-left"><strong>Hotel Johannes Vermeer</strong><br>Molslaan 18<br>2611 RM Delft<br>+31 15 2126466<br><a href="mailto:info@hotelvermeer.nl">info@hotelvermeer.nl</a><br><a href="http://www.hotelvermeer.nl/">www.hotelvermeer.nl</a></td>
-<td><strong>***</strong></td>
-<td class="align-left">
-<p>Basic room € <em>81</em><br>Standard room € <em>100</em><br>Deluxe room €<em> 121</em> <br><br>Reservation: <a href="https://www.hotelvermeer.nl/kamer-boeken/" target="_blank" rel="noopener noreferrer">website</a> <br>(activate discount code top right)</p>
-</td>
-</tr>
-<tr>
-<td class="align-left"><strong>Hotel Casa Juliana</strong><br>Maerten Trompstraat 33<br>2628 RC Delft<br>+31 15 2567612<br><a href="mailto:reservations@casajulia.nl">reservations@casajulia.nl</a><br><a href="http://www.casajulia.nl">www.casajulia.nl</a></td>
-<td><strong>***</strong></td>
-<td class="align-left">Single € <em>102</em><br>Basic double € <em>112</em><br>Small double €<em> 122</em><br>Comfort double € <em>132</em><br>Junior suite € <em>162</em><br> <br>Reservation: <a href="https://www.mews.li/distributor/592bf660-2d52-4bbc-9155-4426e63e91be?mewsVoucherCode=wifs2019">website</a></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<p>Most hotels are in walking distance (&lt; 20 minutes walk) and/or reachable by <a href="https://middleware2020.github.io/venue-information.html">public transport</a>. </p>
-<p>  <img class="post__image--center" src="https://middleware2020.github.io/media/posts/11/hotel_map.jpg" width="1241" height="2129"></p>
-<p> </p>
-<p>More about these hotels and other hotels in Delft can be found on the website <a href="https://www.delft.com/planning-your-trip/stay">https://www.delft.com/planning-your-trip/stay</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Travel Information</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/travel-information.html"/>
-        <id>https://middleware2020.github.io/travel-information.html</id>
-
-        <updated>2019-12-10T04:52:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Delft is located in the province of South Holland, between the cities&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p id="mcetoc_1drk885rb0">Delft is located in the province of South Holland, between the cities of The Hague and Rotterdam, and can be easily reached through different modes of transportation. </p>
-<h2 id="mcetoc_1drk8h5751">By Airplane</h2>
-<h6 id="mcetoc_1drk9ici40">AMS</h6>
-<p><a href="https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol" target="_blank" rel="noopener noreferrer">Amsterdam Schiphol</a> is one of the largest airports in the world by passenger volume and just ~40 min away from Delft. It is the hub and main base of KLM (direct connections from 50+ locations in Europe and from 50+ in the rest of the world), the European hub for Delta Airlines (direct flights from 10 airports in the USA), hub for the budget airline EasyJet (direct flights from 30+ destinations in Europe), and hub for low-cost carrier Transavia (direct flights from 20+ destinations). </p>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/airport-2322977.jpg" width="500" height="375"></p>
-<p>There is a train station in the central terminal building with direct train connections to Delft running every 30 minutes, currently departing at :13 and :43 from platform 5 or 6. The travel time to Delft is 38 minutes and the fare is 10.50€ with <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a> or online ticket and 11.50€ for a disposable ticket. There is an additional connection with a transfer in Leiden on the same platform that also operates twice per hour at :27 and :57.  The service pattern can differ in case of maintenance work or other disruptions, especially on Sundays. In order to plan your trip and get realtime updates, use the travel planner <a href="https://9292.nl" target="_blank" rel="nofollow noopener noreferrer">9292.nl</a> or the app of the national railway company NS <a href="https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html" target="_blank" rel="nofollow noopener noreferrer">www.ns.nl</a>.</p>
-<h6 id="mcetoc_1drk9io871">RTM</h6>
-<p><a href="https://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport" target="_blank" rel="noopener noreferrer">Rotterdam The Hague Airport</a> is a local airport in the municipality of Rotterdam with a limited number direct international connections including London City, Vienna, Lisbon, and Barcelona. </p>
-<p>The airport is served by the bus line 37 that operates on an irregular service pattern centered around the main plane arrival times and reaches Delft central station in 20 minutes. The bus line 33 connects to Rotterdam central station and the Metro Line E. </p>
-<p> </p>
-<h2 id="mcetoc_1drka27rr2">By Train</h2>
-<p>The new underground <em>Delft Station</em> is the central train station in Delft and located in close proximity to the historic old town and the TU Campus. Both inter-regional trains (InterCity) and local trains (Sprinter) connect Delft with the main traffic hubs:</p>
-<ul>
-<li>Rotterdam: 10 minutes travel time, up to 10 trains per hour, connections from/to <a href="https://www.nsinternational.nl/en/trains/thalys" target="_blank" rel="noopener noreferrer">Thalys</a> (France and Belgium), <a href="https://www.nsinternational.nl/en/trains/eurostar">Eurostar </a>(England and Belgium), and <a href="https://www.nsinternational.nl/en/trains/intercity-brussels" target="_blank" rel="noopener noreferrer">Intercity Brussels </a>(Belgium)</li>
-<li>Amsterdam Central Station: 45 minutes travel time, direct trains every 30 minutes,  connections from/to <a href="https://www.nsinternational.nl/en/trains/ice-international" target="_blank" rel="noopener noreferrer">ICE International</a> (Germany, Switzerland), <a href="https://www.nsinternational.nl/en/trains/intercity-berlin" target="_blank" rel="noopener noreferrer">Intercity Berlin</a> (Germany), and (from Dec. 2020) <a href="https://www.nsinternational.nl/en/trains/nighttrain" target="_blank" rel="noopener noreferrer">ÖBB Nightjet</a> (Germany, Austria)</li>
-</ul>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/train-2954371_1920.jpg" width="500" height="333"></p>
-<p>In addition, there are direct connections to national traffic hubs:</p>
-<ul>
-<li>The Hague Central Station, 10 minutes travel time, direct trains every 20 minutes. </li>
-<li>Breda, 36 minutes travel time, direct trains every 30 minutes</li>
-<li>Eindhoven, 1:15h travel time, direct trains every 30 minutes </li>
-</ul>
-<p>Most major railway stations in the Netherlands, including Delft, are equipped with fare gates. If you travel with an international ticket, you should have a QR code printed on it which needs to be scanned to exit the station. Note that most gates are only equipped with readers for the contactless <a href="https://middleware2020.github.io/ov-chipkaart.html">OV Chipkaart</a> so you need to locate one of the gates which has a barcode scanner (behind a round glass surface, as shown below), such as the wider gates for people traveling with luggage. </p>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/10/fare_gate.jpg" width="400" height="243"></p>
-<p> </p>
-<h2 id="mcetoc_1drkbb0o73">By Car</h2>
-<p>Delft is connected to the highways A13 and A4. Parking on the campus is free (as of now). Street parking in the city center is very limited and daily rates start at 12€. Parking garages charge at least 3€ per hour.  </p>
-<p>When driving in the city, be mindful of bicycles which often have the right of way at intersections. </p>
             ]]>
         </content>
     </entry>
