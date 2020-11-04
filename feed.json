@@ -37,14 +37,15 @@
             "id": "https://middleware2020.github.io/signup.html",
             "url": "https://middleware2020.github.io/signup.html",
             "title": "Signup",
-            "content_html": "<iframe width=\"100%\" height=\"1000\" style=\"border: none;\" src=\"http://eepurl.com/hhZx8r\"></iframe>",
+            "summary": "Please register yourself through the following signup form. We will contact you&hellip;",
+            "content_html": "<p>Please register yourself through the following <a href=\"http://eepurl.com/hhZx8r\" target=\"_blank\" rel=\"noopener noreferrer\">signup form</a>.</p>\n<p>We will contact you regarding the access to the communication channels used for the conference. </p>",
             "author": {
                 "name": "rjan"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T00:21:14+01:00",
-            "date_modified": "2020-11-05T00:35:56+01:00"
+            "date_modified": "2020-11-05T00:38:08+01:00"
         },
         {
             "id": "https://middleware2020.github.io/workshops.html",

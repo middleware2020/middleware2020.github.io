@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-05T00:36:00+01:00</updated>
+    <updated>2020-11-05T00:38:12+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -41,11 +41,16 @@
         <link href="https://middleware2020.github.io/signup.html"/>
         <id>https://middleware2020.github.io/signup.html</id>
 
-        <updated>2020-11-05T00:35:56+01:00</updated>
-            <summary></summary>
+        <updated>2020-11-05T00:38:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Please register yourself through the following signup form. We will contact you&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <iframe width="100%" height="1000" style="border: none;" src="http://eepurl.com/hhZx8r"></iframe>
+                <p>Please register yourself through the following <a href="http://eepurl.com/hhZx8r" target="_blank" rel="noopener noreferrer">signup form</a>.</p>
+<p>We will contact you regarding the access to the communication channels used for the conference. </p>
             ]]>
         </content>
     </entry>
