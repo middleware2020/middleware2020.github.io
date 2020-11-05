@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-05T00:45:25+01:00</updated>
+    <updated>2020-11-05T01:07:40+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,9 +17,17 @@
         <link href="https://middleware2020.github.io/presentation-instructions.html"/>
         <id>https://middleware2020.github.io/presentation-instructions.html</id>
 
-        <updated>2020-11-05T00:23:25+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-11-05T00:57:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Work in Progress
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Work in Progress
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Conference Program</title>
@@ -29,9 +37,79 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-05T00:22:48+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-11-05T01:07:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                     MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session 3:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table>
+<tbody>
+<tr>
+<td> </td>
+<td>Mon</td>
+<td>Tue</td>
+<td>Wed</td>
+<td>Thu</td>
+<td>Fri</td>
+</tr>
+<tr>
+<td>10:00-11:30</td>
+<td>Workshops</td>
+<td>Workshops</td>
+<td>Opening, Session 1 (Keynote)</td>
+<td>Session 4</td>
+<td>Session 7</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>13:00-14:30</td>
+<td>Workshops</td>
+<td>Workshops</td>
+<td>Session 2</td>
+<td>Session 5</td>
+<td>Session 8</td>
+</tr>
+<tr>
+<td>15:30-17:00</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Session 3: Industry Track</p>
+</td>
+<td>Session 6</td>
+<td> </td>
+</tr>
+<tr>
+<td>18:00-19:30</td>
+<td> </td>
+<td> </td>
+<td>Posters and Demos</td>
+<td>Keynote and Test off Time Award</td>
+<td> </td>
+</tr>
+<tr>
+<td>20:00-21:00</td>
+<td> </td>
+<td> </td>
+<td>Virtual Reception</td>
+<td>Open Business Meeting</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Signup</title>

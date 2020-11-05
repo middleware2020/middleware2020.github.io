@@ -13,25 +13,29 @@
             "id": "https://middleware2020.github.io/presentation-instructions.html",
             "url": "https://middleware2020.github.io/presentation-instructions.html",
             "title": "Presentation Instructions",
+            "summary": "Work in Progress",
+            "content_html": "Work in Progress",
             "author": {
                 "name": "rjan"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T00:23:25+01:00",
-            "date_modified": "2020-11-05T00:23:25+01:00"
+            "date_modified": "2020-11-05T00:57:12+01:00"
         },
         {
             "id": "https://middleware2020.github.io/conference-program.html",
             "url": "https://middleware2020.github.io/conference-program.html",
             "title": "Conference Program",
+            "summary": " MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session 3:&hellip;",
+            "content_html": "<table>\n<tbody>\n<tr>\n<td> </td>\n<td>Mon</td>\n<td>Tue</td>\n<td>Wed</td>\n<td>Thu</td>\n<td>Fri</td>\n</tr>\n<tr>\n<td>10:00-11:30</td>\n<td>Workshops</td>\n<td>Workshops</td>\n<td>Opening, Session 1 (Keynote)</td>\n<td>Session 4</td>\n<td>Session 7</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>13:00-14:30</td>\n<td>Workshops</td>\n<td>Workshops</td>\n<td>Session 2</td>\n<td>Session 5</td>\n<td>Session 8</td>\n</tr>\n<tr>\n<td>15:30-17:00</td>\n<td> </td>\n<td> </td>\n<td>\n<p>Session 3: Industry Track</p>\n</td>\n<td>Session 6</td>\n<td> </td>\n</tr>\n<tr>\n<td>18:00-19:30</td>\n<td> </td>\n<td> </td>\n<td>Posters and Demos</td>\n<td>Keynote and Test off Time Award</td>\n<td> </td>\n</tr>\n<tr>\n<td>20:00-21:00</td>\n<td> </td>\n<td> </td>\n<td>Virtual Reception</td>\n<td>Open Business Meeting</td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "author": {
                 "name": "rjan"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T00:22:48+01:00",
-            "date_modified": "2020-11-05T00:22:48+01:00"
+            "date_modified": "2020-11-05T01:07:34+01:00"
         },
         {
             "id": "https://middleware2020.github.io/signup.html",
