@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-06T03:18:24+01:00</updated>
+    <updated>2020-11-06T03:21:00+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -75,7 +75,7 @@
         <link href="https://middleware2020.github.io/presentation-instructions.html"/>
         <id>https://middleware2020.github.io/presentation-instructions.html</id>
 
-        <updated>2020-11-06T03:12:37+01:00</updated>
+        <updated>2020-11-06T03:20:55+01:00</updated>
             <summary>
                 <![CDATA[
                     Submission deadline for presentation videos: November 27, 2020 To ensure smooth operation&hellip;
@@ -84,7 +84,7 @@
         <content type="html">
             <![CDATA[
                 <p>Submission deadline for presentation videos: <strong>November 27, 2020</strong></p>
-<p class="p1">To ensure smooth operation for our online program, talks are pre-recorded and uploaded to be streamed during each session. Instructions on how to submit and upload videos can be found here. Authors must attend their respective Zoom sessions for the Q&amp;A immediately following the broadcast of their video, according to the moderation of the session chair.</p>
+<p class="p1">To ensure smooth operation for our online program, talks are pre-recorded and uploaded to be streamed during each session. Instructions on how to submit and upload videos can be found <a href="../../../../../video-submission-instructions.html">here</a>. Authors must attend their respective Zoom sessions for the Q&amp;A immediately following the broadcast of their video, according to the moderation of the session chair.</p>
 <p>The presentation time is <strong>10 minutes</strong> for research and industry track papers. Videos which significantly exceed this time limit can be cut off by the moderators during the presentation. The files have to be uploaded to YouTube and the video quality has to be at least HD (720p).</p>
 <p>Following every presentation, there is a <strong>Q&amp;A session of 5 minutes</strong> which the author is required to attend. At the end of the session, there is a panel discussion comprising all presenters of the session. </p>
 <p class="p1">Authors should treat the video recording as a direct substitute for a physical presentation. The audio should contain a spoken narration of the presentation. The accompanying video should contain a full walkthrough of the presentation slides, which are clearly visible. In addition, the presenter is strongly encouraged to overlay a thumbnail-sized camera feed showing the speaker. In addition, please add some 2-3 discussion points to your conclusion slide. As the talks are intentionally kept short for the online format, it is likely that there are points not discussed during the presentation, such as technical details or future work. Please include these in the conclusion slide to facilitate questions during the Q&amp;A.</p>
