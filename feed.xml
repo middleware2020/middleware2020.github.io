@@ -3,12 +3,70 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-05T01:07:40+01:00</updated>
+    <updated>2020-11-06T03:12:42+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Video Submission Instructions</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/video-submission-instructions.html"/>
+        <id>https://middleware2020.github.io/video-submission-instructions.html</id>
+
+        <updated>2020-11-06T03:11:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Video Submission Deadline: November 27th, 2020 At the top right corner, select&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Video Submission Deadline: November 27th, 2020</strong></p>
+<h2 id="mcetoc_1emdkodge0">Uploading the Video to YouTube</h2>
+<ol>
+<li class="p1">Sign in to YouTube (https://www.youtube.com/).</li>
+<li class="p1">
+<p class="p1">At the top right corner, select the Create video or more button -&gt; Upload Video</p>
+</li>
+<li class="p1">
+<p class="p1">Select the video file you would like to upload.</p>
+</li>
+<li class="p1">
+<p class="p1">While your video is being processed, click on “Details” of the video to fill in information. Your video title should be in the following format: TITLE (ACM MIDDLEWARE 2020). Note that for tracks where this is applicable (e.g., industry track), the title should contain the prefix. </p>
+</li>
+<li class="p1">
+<p>In the description section, please include the track (Research, Industry, ...), paper ID (which can be found from HotCRP) and the names of the authors.</p>
+</li>
+<li class="p1">
+<p class="p1">Under visibility, please select “Unlisted” or “Public”. The difference is that an unlisted video will not be indexed by the YouTube search engine. Click “Save” once done.</p>
+</li>
+<li class="p1">
+<p class="p1">You can optionally go to the “Subtitles” section to manually enter subtitles for your video, which will be displayed during the live broadcast. Please ensure the subtitles are accurate.</p>
+</li>
+<li class="p1">
+<p class="p1">Once your video is available, please copy the link by viewing the video page on YouTube and sharing its link.</p>
+</li>
+</ol>
+<h2 id="mcetoc_1emdl0gki1">Emailing the Youtube Link</h2>
+<p>Email your link to <strong>middleware2020@tudelft.nl</strong></p>
+<p class="p1">The email subject must be titled with your paper ID # and presenter last name:</p>
+<p class="p1"><strong>MIDDLEWARE 2020 Video Link: PAPERID#_PRESENTER-LASTNAME</strong></p>
+<p class="p1">The email body should contain:</p>
+<ul>
+<li class="p1">Paper ID and track</li>
+<li class="p1">YouTube video link</li>
+<li class="p1">Name of the speaker in the video</li>
+<li class="p1">A short 3-4 lines biography of the speaker</li>
+</ul>
+<p class="p1">If you have any difficulty following these instructions, please contact the chairs of your track or the general chairs immediately.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Presentation Instructions</title>
         <author>
@@ -17,15 +75,20 @@
         <link href="https://middleware2020.github.io/presentation-instructions.html"/>
         <id>https://middleware2020.github.io/presentation-instructions.html</id>
 
-        <updated>2020-11-05T00:57:12+01:00</updated>
+        <updated>2020-11-06T03:12:37+01:00</updated>
             <summary>
                 <![CDATA[
-                    Work in Progress
+                    Submission deadline for presentation videos: November 27, 2020 To ensure smooth operation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Work in Progress
+                <p>Submission deadline for presentation videos: <strong>November 27, 2020</strong></p>
+<p class="p1">To ensure smooth operation for our online program, talks are pre-recorded and uploaded to be streamed during each session. Instructions on how to submit and upload videos can be found here. Authors must attend their respective Zoom sessions for the Q&amp;A immediately following the broadcast of their video, according to the moderation of the session chair.</p>
+<p>The presentation time is <strong>10 minutes</strong> for research and industry track papers. Videos which significantly exceed this time limit can be cut off by the moderators during the presentation. The files have to be uploaded to YouTube and the video quality has to be at least HD (720p).</p>
+<p>Following every presentation, there is a <strong>Q&amp;A session of 5 minutes</strong> which the author is required to attend. At the end of the session, there is a panel discussion comprising all presenters of the session. </p>
+<p class="p1">Authors should treat the video recording as a direct substitute for a physical presentation. The audio should contain a spoken narration of the presentation. The accompanying video should contain a full walkthrough of the presentation slides, which are clearly visible. In addition, the presenter is strongly encouraged to overlay a thumbnail-sized camera feed showing the speaker. In addition, please add some 2-3 discussion points to your conclusion slide. As the talks are intentionally kept short for the online format, it is likely that there are points not discussed during the presentation, such as technical details or future work. Please include these in the conclusion slide to facilitate questions during the Q&amp;A.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -543,42 +606,6 @@
 <p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/13/OV-chipkaart.jpg" alt="" width="327" height="212"></p>
 <p>More information about the OV Chipkaart can be found on <a href="https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/anonymous-ov-chipkaart.htm" target="_blank" rel="nofollow noopener noreferrer">https://www.ov-chipkaart.nl</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Visa Information</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/visa-information.html"/>
-        <id>https://middleware2020.github.io/visa-information.html</id>
-
-        <updated>2019-12-09T02:12:22+01:00</updated>
-            <summary>
-                <![CDATA[
-                    The Netherlands are part of the Schengen Area. As a result, EU&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The Netherlands are part of the Schengen Area. As a result, EU citizens and citizens of other Schengen countries can enter the Netherlands without restrictions. Furthermore, the citizens of 62 countries are allowed to enter the Netherlands for short stays (up to 90 days) under a visa-waiver program. In order to check your eligibility, you can use the adviser of the Ministry of Foreign Affairs: </p>
-<p><a href="https://consular.mfaservices.nl/schengen-visa/schengen-advisor">https://consular.mfaservices.nl/schengen-visa/schengen-advisor</a></p>
-<p> </p>
-<h2 id="mcetoc_1drk2h2mf0">Visa Support Letters</h2>
-<div class="entry-content single-entry-post">
-<p align="left">ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. You have to register for the conference and your payment needs to be fully processed before you can apply for a support letter. </p>
-<p align="left">For visa support letters, refer all requests to <a href="mailto: supportletters@acm.org">supportletters@acm.org</a>. Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request:</p>
-<ul>
-<li>Your name as it appears on your passport</li>
-<li>Your current postal mailing address</li>
-<li>The name of the conference you are registering for</li>
-<li>Your registration confirmation number</li>
-<li>If you have any papers accepted for the conference, please provide the title and indicate whether you are the “sole author” or a “co-author”</li>
-<li>Authors may indicate their paper title. If no paper, speakers can provide the title of their presentation</li>
-</ul>
-<p>ACM does not provide letters for transport of vendor or presenter equipment. ACM suggests shipping the materials insured to the conference facility.</p>
-</div>
             ]]>
         </content>
     </entry>
