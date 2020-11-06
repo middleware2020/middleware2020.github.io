@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-06T03:21:54+01:00</updated>
+    <updated>2020-11-06T11:00:59+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -75,7 +75,7 @@
         <link href="https://middleware2020.github.io/presentation-instructions.html"/>
         <id>https://middleware2020.github.io/presentation-instructions.html</id>
 
-        <updated>2020-11-06T03:20:55+01:00</updated>
+        <updated>2020-11-06T11:00:54+01:00</updated>
             <summary>
                 <![CDATA[
                     Submission deadline for presentation videos: November 27, 2020 To ensure smooth operation&hellip;
@@ -84,10 +84,48 @@
         <content type="html">
             <![CDATA[
                 <p>Submission deadline for presentation videos: <strong>November 27, 2020</strong></p>
-<p class="p1">To ensure smooth operation for our online program, talks are pre-recorded and uploaded to be streamed during each session. Instructions on how to submit and upload videos can be found <a href="../../../../../video-submission-instructions.html">here</a>. Authors must attend their respective Zoom sessions for the Q&amp;A immediately following the broadcast of their video, according to the moderation of the session chair.</p>
+<p class="p1">To ensure smooth operation for our online program, talks are pre-recorded and uploaded to be streamed during each session. Authors must attend their respective Zoom sessions for the Q&amp;A immediately following the broadcast of their video, according to the moderation of the session chair.</p>
 <p>The presentation time is <strong>10 minutes</strong> for research and industry track papers. Videos which significantly exceed this time limit can be cut off by the moderators during the presentation. The files have to be uploaded to YouTube and the video quality has to be at least HD (720p).</p>
 <p>Following every presentation, there is a <strong>Q&amp;A session of 5 minutes</strong> which the author is required to attend. At the end of the session, there is a panel discussion comprising all presenters of the session. </p>
 <p class="p1">Authors should treat the video recording as a direct substitute for a physical presentation. The audio should contain a spoken narration of the presentation. The accompanying video should contain a full walkthrough of the presentation slides, which are clearly visible. In addition, the presenter is strongly encouraged to overlay a thumbnail-sized camera feed showing the speaker. In addition, please add some 2-3 discussion points to your conclusion slide. As the talks are intentionally kept short for the online format, it is likely that there are points not discussed during the presentation, such as technical details or future work. Please include these in the conclusion slide to facilitate questions during the Q&amp;A.</p>
+<p> </p>
+<h2 id="mcetoc_1emdkodge0">Uploading the Video to YouTube</h2>
+<ol>
+<li class="p1">Sign in to <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
+<li class="p1">
+<p class="p1">At the top right corner, select the Create video or more button -&gt; Upload Video</p>
+</li>
+<li class="p1">
+<p class="p1">Select the video file you would like to upload.</p>
+</li>
+<li class="p1">
+<p class="p1">While your video is being processed, click on “Details” of the video to fill in information. Your video title should be in the following format: TITLE (ACM/IFIP MIDDLEWARE 2020). Note that for tracks where this is applicable (e.g., industry track), the title should contain the prefix. </p>
+</li>
+<li class="p1">
+<p>In the description section, please include the track (Research, Industry, ...), paper ID (which can be found from HotCRP) and the names of the authors.</p>
+</li>
+<li class="p1">
+<p class="p1">Under visibility, please select “Unlisted” or “Public”. The difference is that an unlisted video will not be indexed by the YouTube search engine. Click “Save” once done.</p>
+</li>
+<li class="p1">
+<p class="p1">You can optionally go to the “Subtitles” section to manually enter subtitles for your video, which will be displayed during the live broadcast. Please ensure the subtitles are accurate.</p>
+</li>
+<li class="p1">
+<p class="p1">Once your video is available, please copy the link by viewing the video page on YouTube and sharing its link.</p>
+</li>
+</ol>
+<h2 id="mcetoc_1emdl0gki1">Emailing the Youtube Link</h2>
+<p>Email your link to <strong>middleware2020@tudelft.nl</strong></p>
+<p class="p1">The email subject must be titled with your paper ID # and presenter last name:</p>
+<p class="p1"><strong>MIDDLEWARE 2020 Video Link: PAPERID#_PRESENTER-LASTNAME</strong></p>
+<p class="p1">The email body should contain:</p>
+<ul>
+<li class="p1">Paper ID and track</li>
+<li class="p1">YouTube video link</li>
+<li class="p1">Name of the speaker in the video</li>
+<li class="p1">A short 3-4 lines biography of the speaker</li>
+</ul>
+<p class="p1">If you have any difficulty following these instructions, please contact the chairs of your track or the general chairs immediately.</p>
 <p> </p>
             ]]>
         </content>
