@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-16T17:50:33+01:00</updated>
+    <updated>2020-11-16T18:05:09+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -138,15 +138,15 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-16T17:50:29+01:00</updated>
+        <updated>2020-11-16T18:05:04+01:00</updated>
             <summary>
                 <![CDATA[
-                     MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session 3:&hellip;
+                     MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <iframe width="800" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=bWlkZGxld2FyZTIwY2FsZW5kYXJAZ21haWwuY29t&amp;color=%23039BE5&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Middleware%202020&amp;mode=WEEK&amp;dates=20201207/20201211" frameborder="0" scrolling="no"></iframe>
+                <iframe width="800" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=bWlkZGxld2FyZTIwY2FsZW5kYXJAZ21haWwuY29t&amp;color=%23039BE5&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Middleware%202020&amp;mode=WEEK&amp;dates=20201207/20201211" frameborder="0" scrolling="no"></iframe> <!--
 <table>
 <tbody>
 <tr>
@@ -209,6 +209,7 @@
 </tr>
 </tbody>
 </table>
+-->
 <p> </p>
             ]]>
         </content>
