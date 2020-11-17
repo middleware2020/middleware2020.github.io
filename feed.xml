@@ -3,12 +3,113 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-16T18:05:09+01:00</updated>
+    <updated>2020-11-17T18:55:02+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Program - Doctoral Symposium</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/program-doctoral-symposium.html"/>
+        <id>https://middleware2020.github.io/program-doctoral-symposium.html</id>
+
+        <updated>2020-11-17T18:53:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Tuesday, 8th December all times in CET Session 1 Session chairs: Animesh Trivedi, Arpan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1enbktm0u0"><span style="font-weight: 400;">Tuesday, 8th December </span></h3>
+<p>all times in CET</p>
+<table style="width: 681px;">
+<tbody>
+<tr>
+<td style="width: 143.984px;">08:50 - 09:00</td>
+<td style="width: 534.016px;">Welcome &amp; introduction</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>09:00 - 9:35</strong></td>
+<td style="width: 534.016px;">
+<p><span style="text-decoration: underline;"><strong>Session 1</strong></span></p>
+<p><strong>Session chairs: </strong><span style="font-weight: 400;">Animesh Trivedi, Arpan Gujarati, and Pramod Bhatotia</span></p>
+<p><strong>Keynote: Lalith Suresh (VMWare Research)</strong><strong>    </strong><a href="https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/"><strong>https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/</strong></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 143.984px;">9:35 - 9:45 </td>
+<td style="width: 534.016px;">break</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>9:45 - 10:20</strong></td>
+<td style="width: 534.016px;">
+<p><strong><span style="text-decoration: underline;">Session 2</span>  </strong><strong>(5 min per talk, ~3 min for questions)</strong></p>
+<p><strong>Session chairs: </strong><span style="font-weight: 400;">Paris Carbone, </span><span style="font-weight: 400;">Aastha Mehta, and Pramod Bhatotia</span></p>
+<p><span style="font-weight: 400;">(1) C. Berger - "Towards Environmental-Adaptive and Performance-Resilient Consensus in Distributed Ledger Technology"</span></p>
+<p><span style="font-weight: 400;">(2) G. Russo - "Model-based auto-scaling of distributed data stream processing applications"</span></p>
+<p><span style="font-weight: 400;">(3) V. Podolskiy - "Rubberband: Enabling Elastic Federated Learning with the Temporary State Management"</span></p>
+<p><span style="font-weight: 400;">(4) M. Kamalian - "Fog Transport Mode Detection"</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 143.984px;">10:20 - 10:30</td>
+<td style="width: 534.016px;">break</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>9:45 - 10:20</strong></td>
+<td style="width: 534.016px;">
+<p><strong><span style="text-decoration: underline;">Session 3</span>  </strong><strong>(5 min per talk, ~3 min for questions)</strong></p>
+<p><strong>Session chairs: </strong><span style="font-weight: 400;">Thomas Pasquier, Antonio Barbalace,</span><span style="font-weight: 400;"> and Ana Varbanescu</span></p>
+<p><span style="font-weight: 400;">(5) G. Frascaria - "Griffin: A Storage Service for Granular Edge Applications"</span></p>
+<p><span style="font-weight: 400;">(6) S. Tavakolisomeh - "Selecting a JVM Garbage Collector for Big Data and Cloud Services"</span></p>
+<p><span style="font-weight: 400;">(7) P. Eichhammer - "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures"</span><span style="font-weight: 400;">   </span></p>
+<p><span style="font-weight: 400;">(8) J. Gunasekaran - "Minimizing Cost and Maximizing Performance for Cloud Platforms"</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 143.984px;">11:05 - 11:15</td>
+<td style="width: 534.016px;">break</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>10:30 - 11:05</strong></td>
+<td style="width: 534.016px;">
+<p><strong><span style="text-decoration: underline;">Session 3</span>  (5 min per talk, ~3 min for questions)</strong></p>
+<p><strong>Session chairs: </strong><span style="font-weight: 400;">Thomas Pasquier, Antonio Barbalace,</span><span style="font-weight: 400;"> and Ana Varbanescu</span></p>
+<p><span style="font-weight: 400;">(5) G. Frascaria - "Griffin: A Storage Service for Granular Edge Applications"</span></p>
+<p><span style="font-weight: 400;">(6) S. Tavakolisomeh - "Selecting a JVM Garbage Collector for Big Data and Cloud Services"</span></p>
+<p><span style="font-weight: 400;">(7) P. Eichhammer - "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures"</span><span style="font-weight: 400;">   </span></p>
+<p><span style="font-weight: 400;">(8) J. Gunasekaran - "Minimizing Cost and Maximizing Performance for Cloud Platforms"</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 143.984px;">11:05 - 11:15</td>
+<td style="width: 534.016px;">break</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>11:15 - 11:50</strong></td>
+<td style="width: 534.016px;">
+<p><strong><span style="text-decoration: underline;">Session 4</span>  (5 min per talk, ~3 min for questions)</strong></p>
+<p><strong>Session chairs: </strong><span style="font-weight: 400;">Etienne Riviere, </span><span style="font-weight: 400;">Anjo Vahldiek-Oberwagner, and Ana Varbanescu</span></p>
+<p><span style="font-weight: 400;">( 9) A. Isstaif  - "Self-managed services using MirageOS unikernels"</span></p>
+<p><span style="font-weight: 400;">(10) A. Khordadi - "Execution Migration of Managed Languages Programs Among Heterogeneous-ISA Processing Units"</span></p>
+<p><span style="font-weight: 400;">(11) I. Zavalyshyn - "Building Private-by-Design IoT Systems"</span></p>
+<p><span style="font-weight: 400;">(12) P. Schmiedmayer - "Apodini: An Internal Domain Specific Language to Design Web Services"</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 143.984px;"><strong>11:50 - 12:00 </strong></td>
+<td style="width: 534.016px;"><strong>Closing Remarks</strong></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Video Submission Instructions</title>
         <author>
@@ -138,7 +239,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-16T18:05:04+01:00</updated>
+        <updated>2020-11-17T18:54:58+01:00</updated>
             <summary>
                 <![CDATA[
                      MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session&hellip;
@@ -211,6 +312,11 @@
 </table>
 -->
 <p> </p>
+<h2 id="mcetoc_1enble61m0">Detailed Program</h2>
+<h3 id="mcetoc_1enblec091">Monday Dec. 7th</h3>
+<p> </p>
+<h3 id="mcetoc_1enblenrj2">Tuesday Dec. 8th</h3>
+<p><a href="program-doctoral-symposium.html" title="Doctiral Symposium">Doctoral Symposium</a></p>
             ]]>
         </content>
     </entry>
@@ -621,31 +727,6 @@
 <p class="align-center"><span class="taghl">Tudor David</span>, Oracle Labs, Switzerland</p>
 <p class="align-center"><span class="taghl">Valerio Schiavoni</span>, University of Neuchâtel, Switzerland</p>
 <p class="align-center"><span class="taghl">Vasiliki Kalavri</span>, Boston University, USA</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>OV Chipkaart</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/ov-chipkaart.html"/>
-        <id>https://middleware2020.github.io/ov-chipkaart.html</id>
-
-        <updated>2019-12-09T08:39:29+01:00</updated>
-            <summary>
-                <![CDATA[
-                    All trains and most local public transport in the Netherlands have a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>All trains and most local public transport in the Netherlands have a unified fare and payment system that uses a contactless prepaid card called <em>OV Chipkaart</em>.  While it is possible to purchase one-way disposable tickets at vending stations and, in some forms of transportation, from the driver, you will be charged a surcharge of 1 € per ticket.</p>
-<p>If you plan to make multiple rides, it might be advisable to purchase an (anonymous) OV Chipkaart from one of the vending points (ticket machines in every rail station, ticket offices in some larger stations, customer service points in some shops) for 7.50€. This card can be charged with funds and used with the contactless readers in any railway station, in buses, trains, trams, and even some ferries. </p>
-<p>When checking in, a lump sum is charged to your card depending on the mode of transportation. At the end of your journey, you need to check out again and then the difference between the lump sum and the effective fare is changed back to your card. For trains, you need a minimum balance of 20€ on your card to check in. For most local public transport around Delft, the lump sum is 4€. There is a <a href="https://www.ov-chipkaart.nl/ov-chip-and-use/use/ov-chipkaart-app.htm" target="_blank" rel="noopener noreferrer">mobile app</a> through which you can monitor your balance, access your travel history, and apply for a refund in case you forgot to check out at the end of your trip.  </p>
-<p><img class="post__image--center" src="https://middleware2020.github.io/media/posts/13/OV-chipkaart.jpg" alt="" width="327" height="212"></p>
-<p>More information about the OV Chipkaart can be found on <a href="https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/anonymous-ov-chipkaart.htm" target="_blank" rel="nofollow noopener noreferrer">https://www.ov-chipkaart.nl</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>
