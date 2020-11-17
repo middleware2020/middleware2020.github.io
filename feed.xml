@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-17T18:58:09+01:00</updated>
+    <updated>2020-11-17T19:20:19+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/program-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/program-doctoral-symposium.html</id>
 
-        <updated>2020-11-17T18:57:02+01:00</updated>
+        <updated>2020-11-17T19:20:13+01:00</updated>
             <summary>
                 <![CDATA[
                     Tuesday, 8th December all times in CET Session 1 Session chairs: Animesh Trivedi, Arpan&hellip;
@@ -27,27 +27,27 @@
             <![CDATA[
                 <h3 id="mcetoc_1enbktm0u0"><span style="font-weight: 400;">Tuesday, 8th December </span></h3>
 <p>all times in CET</p>
-<table style="width: 791.984px;">
+<table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 143px;">08:50 - 09:00</td>
-<td style="width: 644.984px;">Welcome &amp; introduction</td>
+<td style="width: 15%;">8:50 - 9:00</td>
+<td style="width: 85%;"><strong>Welcome &amp; Introduction</strong></td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>09:00 - 9:35</strong></td>
-<td style="width: 644.984px;">
+<td style="width: 15%;"><strong>9:00 - 9:35</strong></td>
+<td style="width: 85%;">
 <p><span style="text-decoration: underline;"><strong>Session 1</strong></span></p>
 <p><strong>Session chairs: </strong><span style="font-weight: 400;">Animesh Trivedi, Arpan Gujarati, and Pramod Bhatotia</span></p>
 <p><strong>Keynote: Lalith Suresh (VMWare Research)</strong><strong>    </strong><a href="https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/"><strong>https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/</strong></a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 143px;">9:35 - 9:45 </td>
-<td style="width: 644.984px;">break</td>
+<td style="width: 15%;">9:35 - 9:45 </td>
+<td style="width: 85%;">break</td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>9:45 - 10:20</strong></td>
-<td style="width: 644.984px;">
+<td style="width: 15%;"><strong>9:45 - 10:20</strong></td>
+<td style="width: 85%;">
 <p><strong><span style="text-decoration: underline;">Session 2</span>  </strong><strong>(5 min per talk, ~3 min for questions)</strong></p>
 <p><strong>Session chairs: </strong><span style="font-weight: 400;">Paris Carbone, </span><span style="font-weight: 400;">Aastha Mehta, and Pramod Bhatotia</span></p>
 <p><span style="font-weight: 400;">(1) C. Berger - "Towards Environmental-Adaptive and Performance-Resilient Consensus in Distributed Ledger Technology"</span></p>
@@ -57,12 +57,12 @@
 </td>
 </tr>
 <tr>
-<td style="width: 143px;">10:20 - 10:30</td>
-<td style="width: 644.984px;">break</td>
+<td style="width: 15%;">10:20 - 10:30</td>
+<td style="width: 85%;">break</td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>9:45 - 10:20</strong></td>
-<td style="width: 644.984px;">
+<td style="width: 15%;"><strong>10:30 - 11:05</strong></td>
+<td style="width: 85%;">
 <p><strong><span style="text-decoration: underline;">Session 3</span>  </strong><strong>(5 min per talk, ~3 min for questions)</strong></p>
 <p><strong>Session chairs: </strong><span style="font-weight: 400;">Thomas Pasquier, Antonio Barbalace,</span><span style="font-weight: 400;"> and Ana Varbanescu</span></p>
 <p><span style="font-weight: 400;">(5) G. Frascaria - "Griffin: A Storage Service for Granular Edge Applications"</span></p>
@@ -72,12 +72,12 @@
 </td>
 </tr>
 <tr>
-<td style="width: 143px;">11:05 - 11:15</td>
-<td style="width: 644.984px;">break</td>
+<td style="width: 15%;">11:05 - 11:15</td>
+<td style="width: 85%;">break</td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>10:30 - 11:05</strong></td>
-<td style="width: 644.984px;">
+<td style="width: 15%;"><strong>10:30 - 11:05</strong></td>
+<td style="width: 85%;">
 <p><strong><span style="text-decoration: underline;">Session 3</span>  (5 min per talk, ~3 min for questions)</strong></p>
 <p><strong>Session chairs: </strong><span style="font-weight: 400;">Thomas Pasquier, Antonio Barbalace,</span><span style="font-weight: 400;"> and Ana Varbanescu</span></p>
 <p><span style="font-weight: 400;">(5) G. Frascaria - "Griffin: A Storage Service for Granular Edge Applications"</span></p>
@@ -87,12 +87,12 @@
 </td>
 </tr>
 <tr>
-<td style="width: 143px;">11:05 - 11:15</td>
-<td style="width: 644.984px;">break</td>
+<td style="width: 15%;">11:05 - 11:15</td>
+<td style="width: 85%;">break</td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>11:15 - 11:50</strong></td>
-<td style="width: 644.984px;">
+<td style="width: 15%;"><strong>11:15 - 11:50</strong></td>
+<td style="width: 85%;">
 <p><strong><span style="text-decoration: underline;">Session 4</span>  (5 min per talk, ~3 min for questions)</strong></p>
 <p><strong>Session chairs: </strong><span style="font-weight: 400;">Etienne Riviere, </span><span style="font-weight: 400;">Anjo Vahldiek-Oberwagner, and Ana Varbanescu</span></p>
 <p><span style="font-weight: 400;">( 9) A. Isstaif  - "Self-managed services using MirageOS unikernels"</span></p>
@@ -102,8 +102,8 @@
 </td>
 </tr>
 <tr>
-<td style="width: 143px;"><strong>11:50 - 12:00 </strong></td>
-<td style="width: 644.984px;"><strong>Closing Remarks</strong></td>
+<td style="width: 15%;"><strong>11:50 - 12:00 </strong></td>
+<td style="width: 85%;"><strong>Closing Remarks</strong></td>
 </tr>
 </tbody>
 </table>
