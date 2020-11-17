@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-17T19:20:19+01:00</updated>
+    <updated>2020-11-17T19:24:12+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/program-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/program-doctoral-symposium.html</id>
 
-        <updated>2020-11-17T19:20:13+01:00</updated>
+        <updated>2020-11-17T19:24:07+01:00</updated>
             <summary>
                 <![CDATA[
                     Tuesday, 8th December all times in CET Session 1 Session chairs: Animesh Trivedi, Arpan&hellip;
@@ -27,10 +27,10 @@
             <![CDATA[
                 <h3 id="mcetoc_1enbktm0u0"><span style="font-weight: 400;">Tuesday, 8th December </span></h3>
 <p>all times in CET</p>
-<table style="width: 100%;">
+<table style="width: 100%; white-space: normal;">
 <tbody>
 <tr>
-<td style="width: 15%;">8:50 - 9:00</td>
+<td style="width: 15%;"><strong>8:50 - 9:00</strong></td>
 <td style="width: 85%;"><strong>Welcome &amp; Introduction</strong></td>
 </tr>
 <tr>
