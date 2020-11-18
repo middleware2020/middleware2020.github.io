@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-17T20:09:19+01:00</updated>
+    <updated>2020-11-18T10:28:07+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/program-doctoral-symposium.html"/>
         <id>https://middleware2020.github.io/program-doctoral-symposium.html</id>
 
-        <updated>2020-11-17T19:24:07+01:00</updated>
+        <updated>2020-11-18T10:28:03+01:00</updated>
             <summary>
                 <![CDATA[
                     Tuesday, 8th December all times in CET Session 1 Session chairs: Animesh Trivedi, Arpan&hellip;
@@ -55,25 +55,6 @@
 <p><span style="font-weight: 400;">(3) V. Podolskiy - "Rubberband: Enabling Elastic Federated Learning with the Temporary State Management"</span></p>
 <p><span style="font-weight: 400;">(4) M. Kamalian - "Fog Transport Mode Detection"</span></p>
 </td>
-</tr>
-<tr>
-<td style="width: 15%;">10:20 - 10:30</td>
-<td style="width: 85%;">break</td>
-</tr>
-<tr>
-<td style="width: 15%;"><strong>10:30 - 11:05</strong></td>
-<td style="width: 85%;">
-<p><strong><span style="text-decoration: underline;">Session 3</span>  </strong><strong>(5 min per talk, ~3 min for questions)</strong></p>
-<p><strong>Session chairs: </strong><span style="font-weight: 400;">Thomas Pasquier, Antonio Barbalace,</span><span style="font-weight: 400;"> and Ana Varbanescu</span></p>
-<p><span style="font-weight: 400;">(5) G. Frascaria - "Griffin: A Storage Service for Granular Edge Applications"</span></p>
-<p><span style="font-weight: 400;">(6) S. Tavakolisomeh - "Selecting a JVM Garbage Collector for Big Data and Cloud Services"</span></p>
-<p><span style="font-weight: 400;">(7) P. Eichhammer - "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures"</span><span style="font-weight: 400;">   </span></p>
-<p><span style="font-weight: 400;">(8) J. Gunasekaran - "Minimizing Cost and Maximizing Performance for Cloud Platforms"</span></p>
-</td>
-</tr>
-<tr>
-<td style="width: 15%;">11:05 - 11:15</td>
-<td style="width: 85%;">break</td>
 </tr>
 <tr>
 <td style="width: 15%;"><strong>10:30 - 11:05</strong></td>
