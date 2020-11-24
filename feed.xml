@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-24T14:19:56+01:00</updated>
+    <updated>2020-11-24T14:23:41+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -220,78 +220,15 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-24T14:19:50+01:00</updated>
+        <updated>2020-11-24T14:23:37+01:00</updated>
             <summary>
                 <![CDATA[
-                     MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session&hellip;
+                     M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <iframe width="800" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=bWlkZGxld2FyZTIwY2FsZW5kYXJAZ21haWwuY29t&amp;color=%23BE6D00&amp;src=NnAyOWdpc2xzZDdvajBxaWExcjRibDZoODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%231B887A&amp;src=YnVucDh2MjQ4M29lZ29tZ3BvNmZvbDJ1ODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;src=ZzBraWkwMjhlN2VwcmQ1b2FnY2kyNmViZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;src=Zmp2aWc1OGxka2kzdmc5M3Qxa2hnaXVtaGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23AD1457&amp;src=aHB1M3YwcjJnNmxxZmcyOXI0NDluOXJ2MG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%234285F4&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Middleware%202020&amp;mode=WEEK&amp;dates=20201207/20201211" frameborder="0" scrolling="no"></iframe> <!--
-<table>
-<tbody>
-<tr>
-<td> </td>
-<td>Mon</td>
-<td>Tue</td>
-<td>Wed</td>
-<td>Thu</td>
-<td>Fri</td>
-</tr>
-<tr>
-<td>10:00-11:30</td>
-<td>Workshops</td>
-<td>Workshops</td>
-<td>Opening, Session 1 (Keynote)</td>
-<td>Session 4</td>
-<td>Session 7</td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>13:00-14:30</td>
-<td>Workshops</td>
-<td>Workshops</td>
-<td>Session 2</td>
-<td>Session 5</td>
-<td>Session 8</td>
-</tr>
-<tr>
-<td>15:30-17:00</td>
-<td> </td>
-<td> </td>
-<td>
-<p>Session 3: Industry Track</p>
-</td>
-<td>Session 6</td>
-<td> </td>
-</tr>
-<tr>
-<td>18:00-19:30</td>
-<td> </td>
-<td> </td>
-<td>Posters and Demos</td>
-<td>Keynote and Test of Time Award</td>
-<td> </td>
-</tr>
-<tr>
-<td>20:00-21:00</td>
-<td> </td>
-<td> </td>
-<td>Virtual Reception</td>
-<td>Open Business Meeting</td>
-<td> </td>
-</tr>
-</tbody>
-</table>
--->
+                <iframe width="800" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=bWlkZGxld2FyZTIwY2FsZW5kYXJAZ21haWwuY29t&amp;color=%23BE6D00&amp;src=NnAyOWdpc2xzZDdvajBxaWExcjRibDZoODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%231B887A&amp;src=YnVucDh2MjQ4M29lZ29tZ3BvNmZvbDJ1ODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;src=ZzBraWkwMjhlN2VwcmQ1b2FnY2kyNmViZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;src=Zmp2aWc1OGxka2kzdmc5M3Qxa2hnaXVtaGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23AD1457&amp;src=aHB1M3YwcjJnNmxxZmcyOXI0NDluOXJ2MG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%234285F4&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Middleware%202020&amp;mode=WEEK&amp;dates=20201207/20201211" frameborder="0" scrolling="no"></iframe>
 <p> </p>
 <h2 id="mcetoc_1enble61m0">Detailed Program</h2>
 <h3 id="mcetoc_1enblec091">Monday Dec. 7th</h3>
@@ -308,7 +245,7 @@
 <p> </p>
 <h3 id="mcetoc_1enblenrj2">Wednesday Dec. 9th</h3>
 <p> </p>
-<table style="width: 681px;">
+<table style="width: 800px; white-space: normal;">
 <tbody>
 <tr>
 <td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
