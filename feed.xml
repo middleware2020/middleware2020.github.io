@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-25T00:34:19+01:00</updated>
+    <updated>2020-11-25T00:34:48+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/keynote-fabio-kon.html"/>
         <id>https://middleware2020.github.io/keynote-fabio-kon.html</id>
 
-        <updated>2020-11-25T00:31:36+01:00</updated>
+        <updated>2020-11-25T00:34:44+01:00</updated>
             <summary>
                 <![CDATA[
                     Smart Cities combine advances in the Internet of Things, Big Data, Social&hellip;
@@ -27,7 +27,7 @@
             <![CDATA[
                 <div>Smart Cities combine advances in the Internet of Things, Big Data, Social Networks, Cloud Computing, and Data Science technologies with the demand for cyber-physical applications in areas of public interest, such as Health, Public Safety, and Mobility. The end goal is to leverage the use of city resources to improve the quality of life of its citizens. Achieving this goal, however, requires advanced support for the development and operation of applications in a complex and dynamic environment. Middleware platforms can provide an integrated infrastructure that enables solutions for smart cities by combining heterogeneous city devices and providing unified, high-level facilities for the development of applications and services. Although several smart city platforms have been proposed in the literature, there are still open research and development challenges related to their scalability, maintainability, interoperability, and reuse in the context of different cities, to name a few. Unfortunately, available platforms lack extensive scientific validation. To contribute in this direction, we are working on InterSCity, a microservices-based, open-source, smart city platform that works as a middleware enabling the collaborative development of large-scale systems, applications, and services. In this talk, we present the architecture of the InterSCity platform, show examples of applications developed around it, and discuss how to assess the performance of such a platform with large-scale workloads produced via simulation based on realistic data.<br><br>
 <h2 id="mcetoc_1enu8m9811">About the speaker</h2>
-<img class="post__image--right" src="https://www.ime.usp.br/fobos-client/obterfoto.php?cid=84724" width="150" height="200"> <br><strong>Fabio Kon</strong> is a Full Professor of Computer Science at the University of São Paulo. His research interests include Distributed, Scalable Systems, Software Engineering, Open Source, and Data Science. In recent years, Fabio has focused his research on Smart Cities (<a href="https://interscity.org/">https://interscity.org</a>), Evidence-based Public Policymaking, and DevOps. Fabio is an ACM Distinguished Scientist and wishes he had more time to play his vibraphone.</div>
+<img class="post__image--right" src="https://www.ime.usp.br/fobos-client/obterfoto.php?cid=84724" alt="Fabio Kon" width="150" height="200"> <br><strong>Fabio Kon</strong> is a Full Professor of Computer Science at the University of São Paulo. His research interests include Distributed, Scalable Systems, Software Engineering, Open Source, and Data Science. In recent years, Fabio has focused his research on Smart Cities (<a href="https://interscity.org/">https://interscity.org</a>), Evidence-based Public Policymaking, and DevOps. Fabio is an ACM Distinguished Scientist and wishes he had more time to play his vibraphone.</div>
 <div> </div>
             ]]>
         </content>
