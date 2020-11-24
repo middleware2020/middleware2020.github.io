@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-24T14:23:41+01:00</updated>
+    <updated>2020-11-24T14:41:24+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -220,7 +220,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-24T14:23:37+01:00</updated>
+        <updated>2020-11-24T14:41:18+01:00</updated>
             <summary>
                 <![CDATA[
                      M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
@@ -244,7 +244,6 @@
 <p><a href="https://serial.ibr.cs.tu-bs.de/serial20/" target="_blank" rel="noopener noreferrer">SERIAL Workshop</a></p>
 <p> </p>
 <h3 id="mcetoc_1enblenrj2">Wednesday Dec. 9th</h3>
-<p> </p>
 <table style="width: 800px; white-space: normal;">
 <tbody>
 <tr>
@@ -342,6 +341,182 @@
 <tr>
 <td style="width: 137.984px;"><strong>20:00-21:00</strong></td>
 <td style="width: 541.016px;"><strong>Virtual Reception</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3 id="mcetoc_1enblenrj2">Thursday Dec. 10th</h3>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 2</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >MATCH: A Decentralized Middleware for Fair Matchmaking In Peer-to-Peer Markets (Presenter: Martijn de Vos)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters (Presenter: Isabelly Rocha)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Fast Training of Deep Learning Models over Multiple GPUs (Presenter: Xiaodong Yi)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >BoLT: Barrier-optimized LSM-Tree (Presenter: Dongui Kim)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >JellyFish: A Fast Skip List with MVCC (Presenter: Leeju Kim)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 3</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Consistent and Secure Network Updates Made Practical (Presenter: James Lembke</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction (Presenter: Georgios Damaskinos</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">TEEMon: A continuous performance monitoring framework for TEEs (Presenter: Robert Krahn)</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >FeGAN: Scaling Distributed GANs (Presenter: Arsany Guirguis)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Poseidon: Safe, Fast and Scalable Persistent Memory Allocator (Presenter: Anthony Demeri)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong> 15:30-17:00</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 4</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >WASP: Wide-area Adaptive Stream Processing (Presenter: Abhishek Chandra)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >SplitServe: Efficiently Splitting Apache Spark Jobs Across FaaS and IaaS (Presenter: Aman Jain)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >SR3: Customizable Recovery for Stateful Stream Processing Systems (Presenter: Hailu Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge (Presenter: Gabriel Parmer)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Tackling Resource Underutilization in the Serverless Era (Presenter: Jashwant Raj Gunasekaran)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>18:00-19:00</strong></td>
+<td style="width: 541.016px;"><strong>Keynote and Test of Time Award</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Keynote Fabio Kon</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Test of Time Award Ceremony</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>20:00-21:00</strong></td>
+<td style="width: 541.016px;"><strong>Open Business Meeting</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Middleware 2021 Address</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3 id="mcetoc_1enblenrj2">Friday Dec. 11th</h3>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 5</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items (Presenter: Michał Król)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >A practical approach for updating an integrity-enforced operating system (Presenter: Wojciech Ozga)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves (Presenter: Lizhi Wang)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Improving the Restore Performance via Physical-Locality Middleware for Backup Systems (Presenter: Pengfei Li)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Xanadu: Mitigating cascading cold starts in serverless function chain deployments (Presenter: Nilanjan Daw)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 6</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span > Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication (Presenter: Yuzhe Tang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters (Presenter: Donglin Yang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking (Presenter: Zhuangdi (Andy) Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes (Presenter: Robert Lyerly)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance (Presenter: Shungeng Zhang)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>14:30 </strong></td>
+<td style="width: 541.016px;"><strong>Closing Remarks</strong></td>
 </tr>
 </tbody>
 </table>
