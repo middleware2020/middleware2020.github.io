@@ -3,12 +3,60 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-24T19:47:31+01:00</updated>
+    <updated>2020-11-25T00:28:39+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Keynote: Developing and Assessing Middleware and Applications for Smart Cities</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/keynote-fabio-kon.html"/>
+        <id>https://middleware2020.github.io/keynote-fabio-kon.html</id>
+
+        <updated>2020-11-25T00:26:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Smart Cities combine advances in the Internet of Things, Big Data, Social&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>Smart Cities combine advances in the Internet of Things, Big Data, Social Networks, Cloud Computing, and Data Science technologies with the demand for cyber-physical applications in areas of public interest, such as Health, Public Safety, and Mobility. The end goal is to leverage the use of city resources to improve the quality of life of its citizens. Achieving this goal, however, requires advanced support for the development and operation of applications in a complex and dynamic environment. Middleware platforms can provide an integrated infrastructure that enables solutions for smart cities by combining heterogeneous city devices and providing unified, high-level facilities for the development of applications and services. Although several smart city platforms have been proposed in the literature, there are still open research and development challenges related to their scalability, maintainability, interoperability, and reuse in the context of different cities, to name a few. Unfortunately, available platforms lack extensive scientific validation. To contribute in this direction, we are working on InterSCity, a microservices-based, open-source, smart city platform that works as a middleware enabling the collaborative development of large-scale systems, applications, and services. In this talk, we present the architecture of the InterSCity platform, show examples of applications developed around it, and discuss how to assess the performance of such a platform with large-scale workloads produced via simulation based on realistic data.<br><br>
+<h2 id="mcetoc_1enu8m9811">About the speaker</h2>
+<br><strong><img class="post__image--right" src="https://www.ime.usp.br/fobos-client/obterfoto.php?cid=84724" width="150" height="200">Fabio Kon</strong> is a Full Professor of Computer Science at the University of São Paulo. His research interests include Distributed, Scalable Systems, Software Engineering, Open Source, and Data Science. In recent years, Fabio has focused his research on Smart Cities (<a href="https://interscity.org/">https://interscity.org</a>), Evidence-based Public Policymaking, and DevOps. Fabio is an ACM Distinguished Scientist and wishes he had more time to play his vibraphone.</div>
+<div> </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Keynote: Teaching Distributed Systems in the Digital Age</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/keynote-maarten-van-steen.html"/>
+        <id>https://middleware2020.github.io/keynote-maarten-van-steen.html</id>
+
+        <updated>2020-11-25T00:25:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Having taught Distributed Systems for many years and confronted with having been&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1enu8m9810">Having taught Distributed Systems for many years and confronted with having been asked to take over the course from a colleague who was retiring, I felt it was time for a change. Distributed systems have a very solid and stable basis, theoretically as well as practically (considering the many systems that have been in use for often decades). There is simply no real need to teach students what they can pick up from any reasonable textbook. The challenge in teaching Distributed Systems is to let students understand the inherent complexities: where does performance come from, where can I find the security measures, why does it hurt here when some part fails over there, and so on.</p>
+<p>In this, anticipated highly interactive keynote, I'd like to discuss a completely different setup that is based on just a few principles: flip the classroom, good explanations come from thorough understanding, and understanding one problem very well is enough to open doors to understanding other issues in Distributed Systems. Rather than letting students dig into well-known problems, I believe it is extremely insightful to let them concentrate on controversial issues. Controversial because statements are made (in blogs and postings and scientific articles) about certain solutions that should be seriously questioned. Oftentimes, those statements are false or inaccurate, but it requires effort to discover why.</p>
+<h1 id="mcetoc_1enu8ndaa2"> </h1>
+<h2 id="mcetoc_1enu8m9811">About the speaker</h2>
+<p><img class="post__image--right" src="https://people.utwente.nl/m.r.vansteen/picture.jpg" alt="https://people.utwente.nl/m.r.vansteen/picture.jpg" width="200" height="200"><strong>Maarten van Steen</strong> has been full professor in Large-Scale Distributed Systems since 2002 and has published on a wide variety of subjects related to distributed systems. Together with Andrew Tanenbaum he has authored a reference textbook on the matter that has seen its way to many universities worldwide. He is currently Scientific Director of the Digital Society Institute of the University of Twente, in essence a virtual institute that bundles all the university's research on digitalization. Before joining Twente in 2015, he was member of the Computer Systems group at the Vrije Universiteit Amsterdam for some 20 years.</p>
+<p>Working in the field of distributed systems ever since 1983, he continues to struggle understanding many of its aspects, especially when scalability is at stake. It is has driven him to believe that only the truly simple solutions will work and that complex solutions (including some of his own) come from a lack of understanding the essentials.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Program - Doctoral Symposium</title>
         <author>
@@ -220,7 +268,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-24T19:47:25+01:00</updated>
+        <updated>2020-11-25T00:28:33+01:00</updated>
             <summary>
                 <![CDATA[
                      M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
@@ -256,7 +304,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
-<td style="width: 541.016px;">Keynote Maarten van Steen </td>
+<td style="width: 541.016px;"><a href="keynote-maarten-van-steen.html">Keynote Maarten van Steen</a></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -450,7 +498,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
-<td style="width: 541.016px;">Keynote Fabio Kon</td>
+<td style="width: 541.016px;"><a href="keynote-fabio-kon.html">Keynote Fabio Kon</a></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -833,115 +881,6 @@
 <p><span style="font-weight: 400;">Tutorial proposals must be sent to:</span><span style="font-weight: 400;"><br></span><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz"><span style="font-weight: 400;">middleware2020-tutorials@cs.otago.ac.nz</span></a></p>
 </div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call For Doctoral Symposium</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/call-for-doctoral-symposium.html"/>
-        <id>https://middleware2020.github.io/call-for-doctoral-symposium.html</id>
-
-        <updated>2020-09-28T23:45:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                    The annual ACM/IFIP Middleware conference will include a doctoral symposium, to which&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">The annual ACM/IFIP Middleware conference will include a doctoral symposium, to which all PhD students working on the topics of the Middleware conference are invited to apply. The doctoral symposium will be held on </span><span style="font-weight: 400;">Tuesday, December 8th</span><span style="font-weight: 400;">, prior to the main conference. </span></p>
-<p><span style="font-weight: 400;">The Middleware doctoral symposium is a welcoming and supportive environment allowing all PhD students to receive feedback, discuss their work, and prepare to get the most out of their participation in the main conference. All participating students will be offered the opportunity to engage with their peers, as well as with senior academic and industrial members of the Middleware community. This will include the feedback of panel members on the day of the symposium and individual meetings with a personal mentor during the conference. The symposium is open to PhD students at any stage of their studies. </span></p>
-<p><span style="font-weight: 400;">Applicants will be divided into two groups: </span></p>
-<ul>
-<li style="font-weight: 400;"><strong>Planners: </strong><span style="font-weight: 400;">students at an early-stage of their thesis who are focused on crafting their research proposal and completing background research. </span><span style="font-weight: 400;"><br><br></span></li>
-<li style="font-weight: 400;"><strong>Finishers:</strong><span style="font-weight: 400;"> students closer to finishing their thesis or dissertation and thinking about how to present their research, its results, and its impact. </span></li>
-</ul>
-<p><span style="font-weight: 400;">All PhD students carrying out research on middleware topics are invited to submit a position paper to the doctoral symposium. Papers will be peer-reviewed by the symposium’s committee of selected mentors. The criteria for accepting papers includes the extent of the contribution of the work to the field, the originality of the problem, and the overall quality of the position paper. Position papers should fit within the research topics of the Middleware 2020 main conference. </span></p>
-<h2 id="mcetoc_1e2vut64p0"><strong>Submission Guidelines</strong></h2>
-<p><span style="font-weight: 400;">Position papers are limited to 2 pages (for students in the planner category) or 4 pages (for students in the Finishers category). </span></p>
-<p><span style="font-weight: 400;">Submissions must use the same format as for the research papers. The suggested format is detailed on the Middleware 2020 website. Please see the submission format for the research track. </span></p>
-<p><span style="font-weight: 400;">The submissions should include an author name and associated affiliation: the only author should be the PhD student (other contributors, e.g., the PhD student’s advisor(s), can be acknowledged in a separate section at the end). </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Contributions to the Middleware 2020 PhD Workshop will appear in a proceedings that supplements the main conference proceedings. </span></p>
-<p><span style="font-weight: 400;">Accepted position paper will lead to a presentation during the doctoral symposium and also  require a poster presentation during the main conference. </span></p>
-<div class="section-title-wrap mr-btm-72">
-<h2 id="mcetoc_1dp173ivl0" class="section-title mr-btm-10">Important Dates</h2>
-<div class="entry-content single-entry-post">
-<table align="center">
-<tbody>
-<tr>
-<td><strong>Submission</strong></td>
-<td class="align-left"><span style="text-decoration: line-through;"><strong><strong>Friday, September 25, 2020</strong></strong></span><strong><strong> Thursday, October 15, 2020</strong></strong></td>
-</tr>
-<tr>
-<td><strong>Notification</strong></td>
-<td class="align-left"><strong><span style="text-decoration: line-through;">Sunday, October 11, 2020</span> Monday, October 26, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Camera Ready Deadline</strong></td>
-<td class="align-left"><strong><span style="text-decoration: line-through;">Friday, October 16, 2020</span> Friday, October 30, 2020</strong></td>
-</tr>
-</tbody>
-</table>
-<p>All deadlines are 23:59 AOE. </p>
-</div>
-</div>
-<h2 id="mcetoc_1e2vutjv11"><strong>Submission website</strong></h2>
-<p><span style="font-weight: 400;">Submissions will be handled through HotCRP: </span><a href="http://middleware20dw.hotcrp.com/"><span style="font-weight: 400;">http://middleware20dw.hotcrp.com/</span></a></p>
-<h2 id="mcetoc_1e2vutp852"><strong>Student Travel Grants</strong></h2>
-<p><span style="font-weight: 400;">Doctoral students that submit their work to this symposium are strongly encouraged to apply for student travel grants to attend Middleware 2020. Students participating in the doctoral symposium will be given priority for the travel grants. Please see the conference website for more details about the student travel grant.</span></p>
-<h2 id="mcetoc_1e2vuu0n03"><strong>Doctoral Symposium Chairs</strong></h2>
-<p><span style="font-weight: 400;">For any further questions, please contact the Middleware 2020 Doctoral Symposium chairs.</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pramod Bhatotia (University of Edinburgh)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ana Lucia Varbanescu (University of Amsterdam)</span></li>
-</ul>
-<p><a href="mailto:middleware20dw@tudelft.nl" target="_blank" rel="noopener noreferrer">middleware20dw@tudelft.nl</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Doctoral Symposium Program Committee</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/doctoral-symposium-program-committee.html"/>
-        <id>https://middleware2020.github.io/doctoral-symposium-program-committee.html</id>
-
-        <updated>2020-03-09T16:27:35+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Aastha Mehta, Max Planck Institute for Software Systems (MPI-SWS), Germany Ana Lucia Varbanescu,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"><span class="taghl">Aastha Mehta</span>, Max Planck Institute for Software Systems (MPI-SWS), Germany</p>
-<p class="align-center"><span class="taghl">Ana Lucia Varbanescu</span>, Universiteit van Amsterdam, Netherlands</p>
-<p class="align-center"><span class="taghl">Animesh Trivedi</span>, Vrije Universiteit Amsterdam, Netherlands</p>
-<p class="align-center"><span class="taghl">Anjo Vahldiek-Oberwagner</span>, Intel Labs, USA</p>
-<p class="align-center"><span class="taghl">Antonio Barbalace</span>, University of Edinburgh, Scotland</p>
-<p class="align-center"><span class="taghl">Arpan Gujarati,</span> Max Planck Institute for Software Systems (MPI-SWS), Germany</p>
-<p class="align-center"><span class="taghl">Cheng Li</span>, University of Science and Technology of China (USTC), China</p>
-<p class="align-center"><span class="taghl">Etienne Rivière</span>, UC Louvain, Belgium</p>
-<p class="align-center"><span class="taghl">Gaël Thomas</span>, Telecom SudParis, France</p>
-<p class="align-center"><span class="taghl">Heidi Howard</span>, University of Cambridge, England</p>
-<p class="align-center"><span class="taghl">Kaveh Razavi</span>, Vrije Universiteit Amsterdam, Netherlands</p>
-<p class="align-center"><span class="taghl">Marta Patiño</span>, Universidad Politécnica de Madrid, Spain</p>
-<p class="align-center"><span class="taghl">Nuno Santos</span>, INESC-ID / IST Universidade de Lisboa, Portugal</p>
-<p class="align-center"><span class="taghl">Paris Carbone</span>, RISE SICS, Sweden</p>
-<p class="align-center"><span class="taghl">Pedro Fonseca</span>, Purdue University, USA</p>
-<p class="align-center"><span class="taghl">Pierre Olivier</span>, The University of Manchester, England</p>
-<p class="align-center"><span class="taghl">Pramod Bhatotia</span>, University of Edinburgh, Scotland</p>
-<p class="align-center"><span class="taghl">Qian Ge</span>, Data61 and UNSW, Australia</p>
-<p class="align-center"><span class="taghl">Ruichuan Chen</span>, Nokia Bell Labs, USA</p>
-<p class="align-center"><span class="taghl">Sophie Cerf</span>, Université Grenoble-Alps, France</p>
-<p class="align-center"><span class="taghl">Sukanya Bhowmik</span>, University of Stuttgart, Germany</p>
-<p class="align-center"><span class="taghl">Thomas Pasquier</span>, University of Bristol, Wales</p>
-<p class="align-center"><span class="taghl">Tudor David</span>, Oracle Labs, Switzerland</p>
-<p class="align-center"><span class="taghl">Valerio Schiavoni</span>, University of Neuchâtel, Switzerland</p>
-<p class="align-center"><span class="taghl">Vasiliki Kalavri</span>, Boston University, USA</p>
             ]]>
         </content>
     </entry>
