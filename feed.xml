@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-24T14:47:14+01:00</updated>
+    <updated>2020-11-24T14:50:17+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -220,7 +220,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-24T14:47:10+01:00</updated>
+        <updated>2020-11-24T14:50:13+01:00</updated>
             <summary>
                 <![CDATA[
                      M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
@@ -328,11 +328,23 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
-<td style="width: 541.016px;"> </td>
+<td style="width: 541.016px;"><span >Hierarchical Topic Aggregation for Geospatial Applications through Processing Extensions in Message Brokers (Presenter: )</span></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
-<td style="width: 541.016px;"> </td>
+<td style="width: 541.016px;"><span >Version Detection for Software Discovery in the Cloud (Presenter: )</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DynPubSub: A Peer To Peer Overlay For Topic-Based Pub/Sub Systems Deployed at the Edge (Presenter: )</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Given 2n Eyeballs, All Quality Flaws Are Shallow (Presenter: )</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Practical Trade-Offs in Integrity Protection for Binaries via Ethereum (Presenter: )</span></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
