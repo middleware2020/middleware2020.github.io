@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-11-23T13:54:03+01:00</updated>
+    <updated>2020-11-24T14:19:56+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -220,7 +220,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-11-23T13:53:58+01:00</updated>
+        <updated>2020-11-24T14:19:50+01:00</updated>
             <summary>
                 <![CDATA[
                      MonTueWedThuFri10:00-11:30WorkshopsWorkshopsOpening, Session 1 (Keynote)Session 4Session 7 13:00-14:30WorkshopsWorkshopsSession 2Session 5Session 815:30-17:00 Session&hellip;
@@ -295,9 +295,119 @@
 <p> </p>
 <h2 id="mcetoc_1enble61m0">Detailed Program</h2>
 <h3 id="mcetoc_1enblec091">Monday Dec. 7th</h3>
-<p> </p>
+<p><a href="http://www.m4iot.org/" target="_blank" rel="noopener noreferrer">M4IoT Workshop</a></p>
+<p><a href="https://didl-conf.github.io/didl4/index.html" target="_blank" rel="noopener noreferrer">DIDL Workshop</a></p>
+<p><a href="https://sites.google.com/view/containers20/home" target="_blank" rel="noopener noreferrer">Containers Workshop</a></p>
+<h3 id="mcetoc_1ent5tdcj0"> </h3>
 <h3 id="mcetoc_1enblenrj2">Tuesday Dec. 8th</h3>
 <p><a href="program-doctoral-symposium.html" title="Doctiral Symposium">Doctoral Symposium</a></p>
+<p><a href="https://dicg2020.github.io/" target="_blank" rel="noopener noreferrer">DICG Workshop</a></p>
+<p><a href="https://armworkshop.github.io/" target="_blank" rel="noopener noreferrer">ARM Workshop</a></p>
+<p><a href="https://www.serverlesscomputing.org/wosc6/" target="_blank" rel="noopener noreferrer">WoSC Workshop</a></p>
+<p><a href="https://serial.ibr.cs.tu-bs.de/serial20/" target="_blank" rel="noopener noreferrer">SERIAL Workshop</a></p>
+<p> </p>
+<h3 id="mcetoc_1enblenrj2">Wednesday Dec. 9th</h3>
+<p> </p>
+<table style="width: 681px;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Opening and Keynote</strong> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Opening Middleware 2020</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Keynote Maarten van Steen </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 1</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Prebaking Functions to Warm the Serverless Cold Start (Presenter: </span></span><span >Paulo Silva)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Resilient Cloud-based Replication with Low Latency (Presenter: </span></span><span >Michael Eischer)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Practical Active Revocation (Presenter: Stefan Contiu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >secureTF: A Secure TensorFlow Framework (Presenter: Do Le Quoc)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >On Delivery Guarantees in Distributed Content-Based Publish/Subscribe Systems (Presenter: Pooya Salehi)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong> 15:30-17:00</strong></td>
+<td style="width: 541.016px;"><strong>Industry Track: Session </strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 1</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 2</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 3</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 4</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 5</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;">Paper 6</td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>18:00-19:00</strong></td>
+<td style="width: 541.016px;"><strong>Posters and Demos</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>20:00-21:00</strong></td>
+<td style="width: 541.016px;"><strong>Virtual Reception</strong></td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
