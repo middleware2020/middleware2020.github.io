@@ -3,12 +3,87 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-12-02T10:38:30+01:00</updated>
+    <updated>2020-12-03T01:30:26+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Student Volunteer Instructions</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/student-volunteer-instructions.html"/>
+        <id>https://middleware2020.github.io/student-volunteer-instructions.html</id>
+
+        <updated>2020-12-03T01:30:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Workshop Instructions Your role is to open the Zoom channel and assist&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Workshop Instructions</strong></p>
+<br>
+<p><strong>Your role is to open the Zoom channel and assist the workshop organizers, depending on what they need. You need to find that out. </strong></p>
+<br>
+<p><span style="font-weight: 400;">Before the workshop (do it today!):</span></p>
+<ul>
+<li style="font-weight: 400;">Request access to the spreadsheet by following the link while logged into your Google account and then click the request access button. </li>
+<li style="font-weight: 400;">Please reach out to the workshop organizers through email and check if they have any specific instructions for you. </li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check with them if they have collected the video files and will play them or if they are expecting you to play the video files.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you have the most recent version of the Zoom client installed on your local machine. </span></li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">At the day of the workshop:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you are logged into Slack. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Open the Zoom channel at least 30 minutes before the scheduled start time, in the following way: </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Log into zoom.us (make sure that you are using the account that corresponds to your channel), go to scheduled meetings, and start the meeting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The meeting should start using your local client.  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Look out for the organizers to join and make them co-host. This is important so that the session does not drop in case you would get disconnected. They are instructed to join earlier than the start date. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that the session is recorded. On Monday, we are trying if we can record all sessions to the cloud. The scheduled sessions should record automatically once started. </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check with the organizers if they can run the channels by themselves or if they need help, e.g., with reading questions asked on Slack. </span></li>
+</ul>
+<br><br><br>
+<p><strong>Main Conference Instructions</strong></p>
+<br>
+<p><strong>Your role is to play the videos of the session that you are scheduled for. </strong></p>
+<br>
+<p><span style="font-weight: 400;">Before the conference (do it today!):</span></p>
+<ul>
+<li style="font-weight: 400;">Request access to the spreadsheet by following the link while logged into your Google account and then click the request access button. </li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you have the most recent version of the Zoom client installed on your local machine. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check the video files of your session, which you find in the spreadsheet. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that they play flawlessly on your machine and that the audio is good. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check that the length of the video is around 10 minutes or less.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Check if the video has subtitles, if so, mark this information for yourself so that you remember enabling them when playing </span></li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">On the days of the conference:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The meeting will be already open because we are using the same meeting for all sessions. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you join at least 15 minutes before the start of the session and make yourself known to me by message (we might have 100+ people in the session)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I will assign the co-host role to you</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will start sharing your screen about 10 minutes before the start of the session. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you check the options “share computer audio” and “optimize screen share for video clip”</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You should have only one browser open on the screen that you share but all videos already open in tabs so that switching is efficient</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">On the first tab, show the 2020.middleware-conference.org/ homepage until the session starts</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The session chair starts the session, start the first presentation when asked to</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">There is a Q&amp;A after every talk. Check the Slack channel for written questions and announce them should the session chair miss them. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Start the next presentation when the session chair indicates that no more questions can be taken. </span></li>
+</ul>
+<br><br>
+<p><span style="font-weight: 400;">If you have any questions, please contact me. </span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Keynote: Developing and Assessing Middleware and Applications for Smart Cities</title>
         <author>
@@ -762,126 +837,6 @@
 </ul>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call for Workshops and Tutorials</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/call-for-workshops-and-tutorials.html"/>
-        <id>https://middleware2020.github.io/call-for-workshops-and-tutorials.html</id>
-
-        <updated>2020-05-01T13:44:36+02:00</updated>
-            <summary>
-                <![CDATA[
-                    The annual ACM/IFIP Middleware conference is a major forum for the discussion&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">The annual ACM/IFIP Middleware conference is a major forum for the discussion of innovations and recent advances in the design, construction, and use of middleware systems. Middleware is the software that resides between applications and the underlying architecture and platforms, often with an emphasis on networked computing. The goal of middleware is to facilitate the development of applications by providing higher-level abstractions for better programmability, performance, scalability, and security. It is a rapidly evolving and growing field.</span></p>
-<br>
-<p><span style="font-weight: 400;">The Middleware conference traditionally includes a number of high-quality workshops and tutorials. We invite experts on related research subjects to submit one-day or half-day workshop and/or tutorial proposals within the scope of Middleware 2020. Proposed workshops and tutorials can be on any topic related to middleware, but we are particularly interested in workshops and tutorials focusing on emerging middleware areas.</span></p>
-<br>
-<p><span style="font-weight: 400;">Christine Julien, University of Texas, USA</span></p>
-<p><span style="font-weight: 400;">David Eyers, University of Otago, NZ</span></p>
-<p><em><span style="font-weight: 400;">Middleware 2020 Workshop and Tutorial Co-Chairs</span></em></p>
-<p><a href="mailto:middleware2020-workshops@cs.otago.ac.nz"><span style="font-weight: 400;">middleware2020-workshops@cs.otago.ac.nz</span></a></p>
-<p><span style="font-weight: 400;"><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz">middleware2020-tutorials@cs.otago.ac.nz</a><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz"></a></span></p>
-<p> </p>
-<div class="section-title-wrap mr-btm-72">
-<h2 id="mcetoc_1dp173ivl0" class="section-title mr-btm-10">Important Dates</h2>
-<div class="entry-content single-entry-post">
-<table align="center">
-<tbody>
-<tr>
-<td><strong>Workshop proposal submission</strong></td>
-<td><strong>May 25, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Tutorial proposal submission</strong></td>
-<td><strong>May 25, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Workshop proposal acceptance notification</strong></td>
-<td><strong>June 1, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Tutorial proposal acceptance notification</strong></td>
-<td><strong>June 1, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Workshop website and CFP online</strong></td>
-<td><strong>June 15, 2020</strong></td>
-</tr>
-<tr>
-<td>Workshop paper submission (approximate)</td>
-<td>August 31, 2020</td>
-</tr>
-<tr>
-<td>Workshop paper notification (approximate)</td>
-<td>September 28, 2020</td>
-</tr>
-<tr>
-<td><strong>Workshop paper camera ready (firm deadline)</strong></td>
-<td><strong>October 16, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Tutorial paper camera ready (firm deadline)</strong></td>
-<td><strong>October 16, 2020</strong></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div class="section-title-wrap mr-btm-72">
-<p id="mcetoc_1e58t1pgb2">All deadlines are 23:59 AOE.</p>
-<h2 id="mcetoc_1e58t4t903"> </h2>
-<h2 id="mcetoc_1e58t1bk50"><span style="font-weight: 400;">Workshop proposal submission</span></h2>
-<p><span style="font-weight: 400;">Each workshop proposal, not exceeding three pages of 11pt single-spaced text, in PDF format, should include the following information:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the title of the workshop;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the names, affiliations and e-mail addresses of the organizing committee;  </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a brief technical description of the workshop topic area; </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the history of the workshop, if applicable;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a short description of the intended format of the workshop (keynote speakers, discussions, etc.); </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a description of the intended review process;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">tentative workshop paper submission and notification deadlines (Note that the latest camera-ready hard deadline for all workshop papers is October 16, 2020.);</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a brief statement of the relevance of the workshop to Middleware; </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a preliminary list of PC members that have accepted to participate in the committee.</span></li>
-</ul>
-<br>
-<p><span style="font-weight: 400;">Each workshop will organize its own submissions and reviewing procedures and will provide its own website. A link will be provided to the workshop’s website from the Middleware 2020 website. Workshop organizers will ensure that all accepted papers are peer reviewed and will need to upload camera ready and copyright agreements of all accepted papers in a timely manner through the ACM portal. Organizers will plan their workshop’s schedule so that: (i) the paper submission deadline falls after the main conference's notification date; (ii) authors are notified no later than September 28, 2020; and (iii) authors submit their camera-ready papers no later than October 16, 2020. Accepted papers should be no longer than 6 pages in the standard ACM format. <strong>Note that at least one author on each accepted workshop paper must hold a full pre-conference registration, as must at least one workshop organiser.</strong> Workshop organizers are responsible for preparing the papers for their workshops in the format required by ACM. As in previous years, the Middleware conference organizers will provide companion proceedings including all workshop papers, which will be available in the ACM Digital Library. <strong>This is subject to the availability of their camera-ready papers by October 16, 2020.</strong></span></p>
-<br>
-<p><span style="font-weight: 400;">Middleware requires workshop organizers to use HotCRP (</span><a href="https://hotcrp.com/"><span style="font-weight: 400;">https://hotcrp.com/</span></a><span style="font-weight: 400;">) to collect submissions, manage reviewing, and facilitate collection of material for the proceedings. HotCRP is free of charge for Middleware workshops and provides many useful tools, such as to manage copyright assignment, final-version submission, PDF checking, and proceedings construction.</span></p>
-<br>
-<p><span style="font-weight: 400;">Workshop proposals must be sent to:</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><a href="mailto:middleware2020-workshops@cs.otago.ac.nz">middleware2020-workshops@cs.otago.ac.nz</a><a href="mailto:middleware2020-workshops@cs.otago.ac.nz"></a></span></p>
-<p> </p>
-<h2 id="mcetoc_1e58t1bk51"><span style="font-weight: 400;">Tutorial proposal submission</span></h2>
-<p><span style="font-weight: 400;">The Middleware conference traditionally includes tutorials given by renowned scientists and practitioners in their fields. We welcome tutorials on both mature and emerging topics. Tutorials may be lectures, interactive workshops, hands-on training, or any combination of the above, with a preference for ideas where there is some degree of interactivity. We especially welcome cross-disciplinary topics and innovative ways of interacting with the audience.</span></p>
-<br>
-<p><span style="font-weight: 400;">Each tutorial proposal, not exceeding five pages of 11pt single-spaced text, in PDF format, should include the following information:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the title of the tutorial;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the names, affiliations and e-mail addresses of the tutorial presenters;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a short outline of the tutorial content;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a short description of the presenters’ experience in teaching and in tutorial presentation;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">references to previous editions of the tutorial (if applicable) including their date, venue, topics and number of participants and the motivation for the new proposal;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">the type of tutorial presentation (e.g., mix of lecturing versus practical exercises);</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">any special requirements for the tutorial room;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">requirements for attendees (e.g., if attendees must bring their own laptop or other hardware, familiarity with certain technologies or topics, etc.);</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">any constraints on the maximum number of participants;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">sample video of a talk (encouraged, not required) especially for first-time tutorial presenters;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">a brief statement of the relevance of the tutorial to Middleware.</span></li>
-</ul>
-<br>
-<p><span style="font-weight: 400;">Proposers of accepted tutorials will be asked to provide information of their tutorial for publication on the conference web site. Note that at least one author on each accepted tutorial must hold a full pre-conference registration.</span></p>
-<br>
-<p><span style="font-weight: 400;">Tutorial proposals must be sent to:</span><span style="font-weight: 400;"><br></span><a href="mailto:middleware2020-tutorials@cs.otago.ac.nz"><span style="font-weight: 400;">middleware2020-tutorials@cs.otago.ac.nz</span></a></p>
-</div>
-<p> </p>
             ]]>
         </content>
     </entry>
