@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-12-03T01:30:26+01:00</updated>
+    <updated>2020-12-03T02:02:45+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://middleware2020.github.io/student-volunteer-instructions.html"/>
         <id>https://middleware2020.github.io/student-volunteer-instructions.html</id>
 
-        <updated>2020-12-03T01:30:21+01:00</updated>
+        <updated>2020-12-03T02:02:39+01:00</updated>
             <summary>
                 <![CDATA[
                     Workshop Instructions Your role is to open the Zoom channel and assist&hellip;
@@ -42,6 +42,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that you are logged into Slack. </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Open the Zoom channel at least 30 minutes before the scheduled start time, in the following way: </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Log into zoom.us (make sure that you are using the account that corresponds to your channel), go to scheduled meetings, and start the meeting.</span></li>
+<li style="font-weight: 400;">The account name is <strong>acm&lt;channel number&gt;@conference.acm.org, </strong>password will be sent out through email</li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">The meeting should start using your local client.  </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Look out for the organizers to join and make them co-host. This is important so that the session does not drop in case you would get disconnected. They are instructed to join earlier than the start date. </span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that the session is recorded. On Monday, we are trying if we can record all sessions to the cloud. The scheduled sessions should record automatically once started. </span></li>
