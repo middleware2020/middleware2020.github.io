@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-12-09T14:17:50+01:00</updated>
+    <updated>2020-12-09T23:21:37+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -345,7 +345,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-12-09T14:17:46+01:00</updated>
+        <updated>2020-12-09T23:21:32+01:00</updated>
             <summary>
                 <![CDATA[
                      M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
@@ -535,7 +535,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
-<td style="width: 541.016px;"><span >Poseidon: Safe, Fast and Scalable Persistent Memory Allocator (Presenter: Anthony Demeri)</span> </td>
+<td style="width: 541.016px;"><span >Poseidon: Safe, Fast and Scalable Persistent Memory Allocator (Presenter: Madhava Krishnan)</span> </td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
