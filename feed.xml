@@ -3,7 +3,7 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-12-07T21:24:33+01:00</updated>
+    <updated>2020-12-09T12:13:23+01:00</updated>
     <author>
         <name>rjan</name>
     </author>
@@ -345,7 +345,7 @@
         <link href="https://middleware2020.github.io/conference-program.html"/>
         <id>https://middleware2020.github.io/conference-program.html</id>
 
-        <updated>2020-12-03T11:28:59+01:00</updated>
+        <updated>2020-12-09T12:13:18+01:00</updated>
             <summary>
                 <![CDATA[
                      M4IoT Workshop DIDL Workshop Containers Workshop Doctoral Symposium DICG Workshop ARM&hellip;
@@ -373,7 +373,7 @@
 <tbody>
 <tr>
 <td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
-<td style="width: 541.016px;"><strong>Opening and Keynote</strong> </td>
+<td style="width: 541.016px;"><strong>Opening and Keynote (Session Chairs: Jan S. Rellermeyer and Rüdiger Kapitza)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -389,7 +389,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
-<td style="width: 541.016px;"><strong>Research Track: Session 1</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 1 (Session Chair: Hans P. Reiser)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -417,7 +417,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>15:30-17:00</strong></td>
-<td style="width: 541.016px;"><strong>Industry Track: Session </strong></td>
+<td style="width: 541.016px;"><strong>Industry Track: Session (Chairs: Ioana Giurgiu and Sameh Elnikety)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -449,7 +449,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>18:00-19:30</strong></td>
-<td style="width: 541.016px;"><strong>Posters and Demos</strong></td>
+<td style="width: 541.016px;"><strong>Posters and Demos (Chairs: Angela Nicoara and Ihor Kuz)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -487,7 +487,7 @@
 <tbody>
 <tr>
 <td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
-<td style="width: 541.016px;"><strong>Research Track: Session 2</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 2 (Session Chair: Mina Sedaghat)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -515,7 +515,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
-<td style="width: 541.016px;"><strong>Research Track: Session 3</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 3 (Session Chair: Vincenzo Massimiliano Gulisano)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -543,7 +543,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>15:30-17:00</strong></td>
-<td style="width: 541.016px;"><strong>Research Track: Session 4</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 4 (Session Chair: Roy Campbell)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -571,7 +571,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>18:00-19:30</strong></td>
-<td style="width: 541.016px;"><strong>Keynote and Test of Time Award</strong></td>
+<td style="width: 541.016px;"><strong>Keynote and Test of Time Award (Session Chairs: Dilma da Silva and Nalini Venkatasubramanian)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -587,7 +587,7 @@
 </tr>
 <tr>
 <td style="width: 137.984px;"><strong>20:00-21:00</strong></td>
-<td style="width: 541.016px;"><strong>Open Business Meeting</strong></td>
+<td style="width: 541.016px;"><strong>Open Business Meeting (Session Chair: Hans-Arno Jacobsen)</strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
@@ -630,6 +630,246 @@
 <tr>
 <td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
 <td style="width: 541.016px;"><strong>Research Track: Session 6</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span > Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication (Presenter: Yuzhe Tang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters (Presenter: Donglin Yang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking (Presenter: Zhuangdi (Andy) Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes (Presenter: Robert Lyerly)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance (Presenter: Shungeng Zhang)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>14:30 </strong></td>
+<td style="width: 541.016px;"><strong>Closing Remarks</strong></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 5 (Session Chair: </strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items (Presenter: Michał Król)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >A practical approach for updating an integrity-enforced operating system (Presenter: Wojciech Ozga)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves (Presenter: Lizhi Wang)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Improving the Restore Performance via Physical-Locality Middleware for Backup Systems (Presenter: Pengfei Li)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Xanadu: Mitigating cascading cold starts in serverless function chain deployments (Presenter: Nilanjan Daw)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 6</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span > Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication (Presenter: Yuzhe Tang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters (Presenter: Donglin Yang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking (Presenter: Zhuangdi (Andy) Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes (Presenter: Robert Lyerly)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance (Presenter: Shungeng Zhang)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>14:30 </strong></td>
+<td style="width: 541.016px;"><strong>Closing Remarks</strong></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 5 (Session Chair: Valerio Schiavoni<br></strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items (Presenter: Michał Król)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >A practical approach for updating an integrity-enforced operating system (Presenter: Wojciech Ozga)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves (Presenter: Lizhi Wang)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Improving the Restore Performance via Physical-Locality Middleware for Backup Systems (Presenter: Pengfei Li)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Xanadu: Mitigating cascading cold starts in serverless function chain deployments (Presenter: Nilanjan Daw)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 6</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span > Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication (Presenter: Yuzhe Tang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters (Presenter: Donglin Yang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking (Presenter: Zhuangdi (Andy) Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes (Presenter: Robert Lyerly)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance (Presenter: Shungeng Zhang)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>14:30 </strong></td>
+<td style="width: 541.016px;"><strong>Closing Remarks</strong></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 5 (Session Chair: Valerio Schiavoni)<br></strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items (Presenter: Michał Król)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >A practical approach for updating an integrity-enforced operating system (Presenter: Wojciech Ozga)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves (Presenter: Lizhi Wang)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Improving the Restore Performance via Physical-Locality Middleware for Backup Systems (Presenter: Pengfei Li)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Xanadu: Mitigating cascading cold starts in serverless function chain deployments (Presenter: Nilanjan Daw)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 6</strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span > Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication (Presenter: Yuzhe Tang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span ><span >Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters (Presenter: Donglin Yang</span></span><span >)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking (Presenter: Zhuangdi (Andy) Xu)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes (Presenter: Robert Lyerly)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance (Presenter: Shungeng Zhang)</span> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>14:30 </strong></td>
+<td style="width: 541.016px;"><strong>Closing Remarks</strong></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 800px; white-space: normal;">
+<tbody>
+<tr>
+<td style="width: 137.984px;"><strong>10:00-11:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 5 (Session Chair: Valerio Schiavoni)<br></strong></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items (Presenter: Michał Król)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >A practical approach for updating an integrity-enforced operating system (Presenter: Wojciech Ozga)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves (Presenter: Lizhi Wang)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Improving the Restore Performance via Physical-Locality Middleware for Backup Systems (Presenter: Pengfei Li)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"><span >Xanadu: Mitigating cascading cold starts in serverless function chain deployments (Presenter: Nilanjan Daw)</span></td>
+</tr>
+<tr>
+<td style="width: 137.984px;"> </td>
+<td style="width: 541.016px;"> </td>
+</tr>
+<tr>
+<td style="width: 137.984px;"><strong>13:00-14:30</strong></td>
+<td style="width: 541.016px;"><strong>Research Track: Session 6 (Session Chair: Francois Taiani)<br></strong></td>
 </tr>
 <tr>
 <td style="width: 137.984px;"> </td>
