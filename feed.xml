@@ -3,12 +3,35 @@
     <title>Middleware 2020</title>
     <link href="https://middleware2020.github.io/feed.xml" rel="self" />
     <link href="https://middleware2020.github.io" />
-    <updated>2020-12-15T15:02:16+01:00</updated>
+    <updated>2021-08-23T14:58:13+02:00</updated>
     <author>
         <name>rjan</name>
     </author>
     <id>https://middleware2020.github.io</id>
 
+    <entry>
+        <title>Artifact Evaluation</title>
+        <author>
+            <name>rjan</name>
+        </author>
+        <link href="https://middleware2020.github.io/artifact-evaluation.html"/>
+        <id>https://middleware2020.github.io/artifact-evaluation.html</id>
+
+        <updated>2021-08-23T14:55:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Artifacts AvailablePaper #15: PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1fdph0mhp0" class="align-center"><br>Artifacts Available</h3>
+<p>Paper #15: PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items<br>Authors: M. Król, A. Sonnino, A. Tasiopoulos, I. Psaras, E. Rivière<br>Link: <a href="https://github.com/harnen/FilecoinPricingMechanism">https://github.com/harnen/FilecoinPricingMechanism</a><br><br>Paper #51: Fast Training of Deep Learning Models over Multiple GPUs<br>Authors: X. Yi, Z. Luo, C. Meng, M. Wang, G. Long, C. Wu, J. Yang, W. Lin<br>Link: <a href="https://github.com/eval-submissions/FastT">https://github.com/eval-submissions/FastT</a><br><br>Paper #115: An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes<br>Authors: R. Lyerly, C. Min, C. Rossbach, B. Ravindran<br>Link: <a href="https://github.com/ssrg-vt/popcorn-compiler/tree/master/lib/libopenpop">https://github.com/ssrg-vt/popcorn-compiler/tree/master/lib/libopenpop</a><br><br>Paper #127: Prebaking Functions to Warm the Serverless Cold Start<br>Authors: P. Silva, D. Fireman, T. Pereira<br>Link: <a href="https://github.com/paulofelipefeitosa/prebaking-middleware-2020">https://github.com/paulofelipefeitosa/prebaking-middleware-2020</a><br><br>Paper #129: Fifer: Tackling Resource Underutilization in the Serverless Era<br>Authors: J. Gunasekaran, P. Thinakaran, N. Nachiappan, M. Kandemir, C. Das<br>Link: <a href="https://github.com/jashwantraj92/brigade">https://github.com/jashwantraj92/brigade</a><br><br>Paper #150: FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction<br>Authors: G. Damaskinos, R. Guerraoui, A. Kermarrec, V. Nitu, R. Patra, F. Taiani<br>Link: <a href="https://doi.org/10.5281/zenodo.4048244">https://doi.org/10.5281/zenodo.4048244</a><br><br>Paper #167: Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking<br>Authors: Z. Xu, H. Shah, K. Ramachandran<br>Link: <a href="https://github.com/xzdandy/Coral_Pie">https://github.com/xzdandy/Coral_Pie</a><br><br>Paper #170: FeGAN: Scaling Distributed GANs<br>Authors: R. Guerraoui, A. Guirguis, A. Kermarrec, E. Le Merrer<br>Link: <a href="http://doi.org/10.5281/zenodo.4063601">http://doi.org/10.5281/zenodo.4063601</a><br><br>Paper #196: Xanadu: Mitigating cascading cold starts in serverless function chain deployments<br>Authors: N. Daw, U. Bellur, P. Kulkarni<br>Link: <a href="https://git.cse.iitb.ac.in/synerg/xanadu">https://git.cse.iitb.ac.in/synerg/xanadu</a><br><br>Paper #197: Improving the Restore Performance via Physical-Locality Middleware for Backup Systems<br>Authors: P. Li, Y. Hua, Q. Cao, M. Zhang<br>Link: <a href="https://github.com/iotlpf/HiDeStore">https://github.com/iotlpf/HiDeStore</a><br><br>Paper #209: PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters<br>Authors: I. Rocha, N. Morris, R. Birke, L. Chen, P. Felber, V. Schiavoni<br>Link: <a href="https://github.com/isabellyrocha/pipetune">https://github.com/isabellyrocha/pipetune</a><br><br>Paper #238: Consistent and Secure Network Updates Made Practical<br>Authors: J. Lembke, S. Ravi, P. Roman, P. Eugster<br>Link: <a href="https://gitlab.com/robust-sdn/cicero/">https://gitlab.com/robust-sdn/cicero/</a><br><br>Paper #295: SplitServe: Efficiently Splitting Apache Spark Jobs Across FaaS and IaaS<br>Authors: A. Jain, A. Baarzi, N. Alfares, G. Kesidis, B. Urgaonkar, M. Kandemir<br>Link: <a href="https://github.com/PSU-Cloud/splitserve">https://github.com/PSU-Cloud/splitserve</a><br><br>Paper #425: Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication<br>Authors: K. Li, Y. Tang, J. Chen, Z. Yuan, C. Xu, J. Xu<br>Link: <a href="https://github.com/syracuse-fullstacksecurity/GRuB">https://github.com/syracuse-fullstacksecurity/GRuB</a></p>
+<h3 id="mcetoc_1fdph6tpj1" class="align-center"><br>Artifacts Evaluated - Functional</h3>
+<p>Paper #15: PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items<br>Authors: M. Król, A. Sonnino, A. Tasiopoulos, I. Psaras, E. Rivière<br>Link: <a href="https://github.com/harnen/FilecoinPricingMechanism">https://github.com/harnen/FilecoinPricingMechanism</a><br><br>Paper #115: An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes<br>Authors: R. Lyerly, C. Min, C. Rossbach, B. Ravindran<br>Link: <a href="https://github.com/ssrg-vt/popcorn-compiler/tree/master/lib/libopenpop">https://github.com/ssrg-vt/popcorn-compiler/tree/master/lib/libopenpop</a><br><br>Paper #127: Prebaking Functions to Warm the Serverless Cold Start<br>Authors: P. Silva, D. Fireman, T. Pereira<br>Link: <a href="https://github.com/paulofelipefeitosa/prebaking-middleware-2020">https://github.com/paulofelipefeitosa/prebaking-middleware-2020</a><br><br>Paper #150: FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction<br>Authors: G. Damaskinos, R. Guerraoui, A. Kermarrec, V. Nitu, R. Patra, F. Taiani<br>Link: <a href="https://doi.org/10.5281/zenodo.4048244">https://doi.org/10.5281/zenodo.4048244</a><br><br>Paper #170: FeGAN: Scaling Distributed GANs<br>Authors: R. Guerraoui, A. Guirguis, A. Kermarrec, E. Le Merrer<br>Link: <a href="http://doi.org/10.5281/zenodo.4063601">http://doi.org/10.5281/zenodo.4063601</a><br><br>Paper #197: Improving the Restore Performance via Physical-Locality Middleware for Backup Systems<br>Authors: P. Li, Y. Hua, Q. Cao, M. Zhang<br>Link: <a href="https://github.com/iotlpf/HiDeStore">https://github.com/iotlpf/HiDeStore</a><br><br>Paper #209: PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters<br>Authors: I. Rocha, N. Morris, R. Birke, L. Chen, P. Felber, V. Schiavoni<br>Link: <a href="https://github.com/isabellyrocha/pipetune">https://github.com/isabellyrocha/pipetune</a><br><br>Paper #425: Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication<br>Authors: K. Li, Y. Tang, J. Chen, Z. Yuan, C. Xu, J. Xu<br>Link: <a href="https://github.com/syracuse-fullstacksecurity/GRuB">https://github.com/syracuse-fullstacksecurity/GRuB</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Student Volunteer Instructions</title>
         <author>
@@ -752,92 +775,6 @@
 <p class="align-center"><a href="http://www.m4iot.org/" target="_blank" rel="noopener noreferrer">M4IOT 2020: 7th International Workshop on Middleware and Applications for the Internet of Things</a></p>
 <p class="align-center"><a href="https://serial.ibr.cs.tu-bs.de/serial20/" target="_blank" rel="noopener noreferrer">SERIAL: 4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers</a></p>
 <p class="align-center"><a href="https://www.serverlesscomputing.org/wosc6/" target="_blank" rel="noopener noreferrer">WoSC: 6th Workshop on Serverless Computing</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call for Demos and Posters</title>
-        <author>
-            <name>rjan</name>
-        </author>
-        <link href="https://middleware2020.github.io/call-for-posters-and-demos.html"/>
-        <id>https://middleware2020.github.io/call-for-posters-and-demos.html</id>
-
-        <updated>2020-05-08T15:20:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Middleware 2020 will provide a forum for live software demonstrations of middleware&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="section-title-wrap mr-btm-72 text-center">
-<div class="">Middleware 2020 will provide a forum for live software demonstrations of middleware applications, systems, and tools. Demos could take a wide and open-ended variety of forms. Typical examples include: (i) presentation of an application that leverages advanced middleware concepts, (ii) working through coding of an example on a novel middleware platform, or (iii) real-time visualizations of middleware system metrics under simulated workloads. Although the form may vary, demo presenters should take advantage of not being constrained by the format of a traditional slide presentation. Demos are encouraged for both early prototypes and mature technology.</div>
-<div class=""> </div>
-<div class="">Posters will provide an opportunity for conference attendees to learn about innovative work in progress and to preview late-breaking research results. Poster sessions will provide an informal setting for presenters to communicate ideas or results and also to collect feedback from attendees.</div>
-<p align="left">Demo or poster contributions are solicited in all areas of middleware research and applications. For a list of applicable topics, please consider those from the call for papers.</p>
-</div>
-<div class="section-title-wrap mr-btm-72">
-<h2 id="mcetoc_1e755qp3j0" class="section-title mr-btm-10">Important Dates</h2>
-<div class="entry-content single-entry-post">
-<table align="center">
-<tbody>
-<tr>
-<td><strong>Submission</strong></td>
-<td class="align-left"><strong>Monday, September 14, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Notification</strong></td>
-<td class="align-left"><strong>Monday, September 28, 2020</strong></td>
-</tr>
-<tr>
-<td><strong>Camera Ready Deadline</strong></td>
-<td class="align-left"><strong>Friday, October 16, 2020</strong></td>
-</tr>
-</tbody>
-</table>
-<br>
-<p>Submit your posters and demos through <a href="https://middleware20demos-posters.hotcrp.com">HotCRP</a>.</p>
-<p>The authors of accepted demos and posters must prepare a single slide that provides an overview of their work which will be presented during the "1-minute madness" session that precedes the demo and poster session.</p>
-<p>Accepted Demos and Posters papers will be included in the Middleware 2020 conference proceedings that will be published in the ACM Digital Library. The official publication date will be the date the proceedings are made available in the ACM Digital Library which may be up to two weeks prior to the first day of the Middleware conference. Note that the official publication date affects the deadline for any patent filings related to published work.</p>
-</div>
-</div>
-<div class="section-title-wrap mr-btm-72">
-<h2 id="mcetoc_1e755qp3j1" class="section-title mr-btm-10">Demo Submissions</h2>
-<div class="entry-content single-entry-post">
-<p align="left">Submissions describing live demos should be at most 3 pages PDF using the ACM SIGPLAN style, which can be found on the <a href="https://www.acm.org/publications/proceedings-template" target="_blank" rel="noopener noreferrer">ACM template page</a>. <strong>The font size has to be set to 10pt. </strong>The first two pages will include a description of the demo that will be included in the Middleware proceedings. The last page will outline aspects of the demo that will be considered during evaluation, but will not appear in the proceedings.</p>
-<p align="left">Pages 1 and 2 should include the following:</p>
-<ul>
-<li>Title of the demo (including beginning with "Demo Abstract:"),</li>
-<li>Authors, affiliation, and contact information,</li>
-<li>Description of the problems addressed,</li>
-<li>Research and technical approach,</li>
-<li>Related work with bibliography.</li>
-</ul>
-<p align="left">Page 3 should contain any additional information that will be used only to evaluate your demonstration proposal: it will not be part of the proceedings. For example, you may detail what you will show during the demo, provide links to additional online material related to your demo, e.g., videos, etc. You may also use this space to outline any special requirements you have for the demonstration, e.g., unusual space needs, exclusive access to a wireless channel, etc. The format of this page is at your discretion.</p>
-</div>
-</div>
-<div class="mr-btm-72">
-<h2 id="mcetoc_1e755qp3j2" class="section-title mr-btm-10">Poster Submissions</h2>
-<div class="entry-content single-entry-post">
-<p align="left">Submissions describing posters should be at most 2 pages PDF using the ACM SIGPLAN style, which can found on the ACM template page. <strong>The font size has to be set to 10pt. </strong></p>
-<p align="left">The submission should include:</p>
-<ul>
-<li>Title of the poster (beginning with "Poster Abstract:"),</li>
-<li>Authors, affiliation, and contact information,</li>
-<li>Description of the problems addressed,</li>
-<li>Research and technical approach,</li>
-<li>Any preliminary results,</li>
-<li>Related work with bibliography.</li>
-</ul>
-<p> </p>
-<p>If you have questions or encounter any problems, please notify the Demo and Poster chairs:</p>
-<ul>
-<li>Angela Nicoara, angela.nicoara@hslu.ch</li>
-<li>Ihor Khuz, Ihor.Kuz@data61.csiro.au</li>
-</ul>
-</div>
-</div>
             ]]>
         </content>
     </entry>
